@@ -65,7 +65,7 @@ root<Curse> {
             curse.fileID = FileID(2988048)
         }
         (+ProjectID(391739)) { // Astromine
-            curse.fileID = FileID(2991664)
+            curse.fileID = FileID(2992203)
         }
         (+ProjectID(391532)) { // Astrum
             curse.fileID = FileID(2988088)
@@ -95,13 +95,13 @@ root<Curse> {
             curse.fileID = FileID(2990840)
         }
         (+ProjectID(391186)) { // Landmark
-            curse.fileID = FileID(2991592)
+            curse.fileID = FileID(2992204)
         }
         (+ProjectID(391812)) { // Mobs Attempt Parkour
             curse.fileID = FileID(2990365)
         }
         (+ProjectID(391583)) { // ModUpdater
-            curse.fileID = FileID(2990719)
+            curse.fileID = FileID(2992060)
         }
         (+ProjectID(391937)) { // Muffle
             curse.fileID = FileID(2988542)

@@ -13,12 +13,12 @@
     },
     "astromine-fabric": {
         "id": "astromine-fabric",
-        "version": "astromine-1.0.13+fabric-1.16.1.jar",
+        "version": "astromine-1.0.16+fabric-1.16.1.jar",
         "provider": "CURSE",
         "side": "BOTH",
         "optional": "false",
-        "filename": "astromine-1.0.13+fabric-1.16.1.jar",
-        "direct.url": "https://edge.forgecdn.net/files/2991/664/astromine-1.0.13+fabric-1.16.1.jar",
+        "filename": "astromine-1.0.16+fabric-1.16.1.jar",
+        "direct.url": "https://edge.forgecdn.net/files/2992/203/astromine-1.0.16+fabric-1.16.1.jar",
         "curse.releasetype": "Release",
         "curse.authors": "bolkor_, Draylar1, halfbuilders, shedaniel, Shnupbups, SuperCoder79"
     },
@@ -289,12 +289,12 @@
     },
     "landmark": {
         "id": "landmark",
-        "version": "landmark-0.1.2.jar",
+        "version": "landmark-0.1.3.jar",
         "provider": "CURSE",
         "side": "BOTH",
         "optional": "false",
-        "filename": "landmark-0.1.2.jar",
-        "direct.url": "https://edge.forgecdn.net/files/2991/592/landmark-0.1.2.jar",
+        "filename": "landmark-0.1.3.jar",
+        "direct.url": "https://edge.forgecdn.net/files/2992/204/landmark-0.1.3.jar",
         "curse.releasetype": "Release",
         "curse.authors": "HephaestusDev"
     },
@@ -366,13 +366,13 @@
     },
     "modupdater": {
         "id": "modupdater",
-        "version": "modupdater-1.1.4+1.16.1.jar",
+        "version": "modupdater-1.1.6+1.16.1.jar",
         "provider": "CURSE",
         "side": "BOTH",
         "optional": "false",
         "dependencies.required": "fabric-api",
-        "filename": "modupdater-1.1.4+1.16.1.jar",
-        "direct.url": "https://edge.forgecdn.net/files/2990/719/modupdater-1.1.4+1.16.1.jar",
+        "filename": "modupdater-1.1.6+1.16.1.jar",
+        "direct.url": "https://edge.forgecdn.net/files/2992/60/modupdater-1.1.6+1.16.1.jar",
         "curse.releasetype": "Release",
         "curse.authors": "thebrokenrail"
     },
