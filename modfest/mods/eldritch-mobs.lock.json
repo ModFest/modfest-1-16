@@ -1,0 +1,12 @@
+{
+    "type": "curse",
+    "common": {
+        "dependencies": {
+            "REQUIRED": [
+                "cardinal-components"
+            ]
+        }
+    },
+    "projectID": 392015,
+    "fileID": 2989022
+}
