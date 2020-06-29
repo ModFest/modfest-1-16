@@ -175,9 +175,9 @@ root<Curse> {
             +"rainbow" {
                 url = "https://ci.hexeption.dev/job/Rainbow/job/master/14/artifact/build/libs/rainbow-1.16.1+1.0.0+build.14.jar"
             }
-//            +"rpgstats" {
-//                url = "https://cdn.discordapp.com/attachments/723624133707169822/726954133546074112/rpgstats-1.0.21.16.1.jar" // TODO fix
-//            }
+            +"rpgstats" {
+                url = "https://cdn.discordapp.com/attachments/720484460197314590/727154350186692608/rpgstats-1.0.21.16.1.jar"
+            }
             +"smolDragons" {
                 url = "https://cdn.discordapp.com/attachments/720484460197314590/727050999868686337/smol-dragons-1.0.1.jar"
             }
