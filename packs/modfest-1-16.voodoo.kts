@@ -7,8 +7,8 @@ icon = rootFolder.resolve("icon.png")
 pack {
     multimc {
         // path tp the published modpack definition (not sk always)
-        skPackUrl = "https://modfest.net/1.16/pack/modfest.json"
-        selfupdateUrl = "https://modfest.net/1.16/pack/modfest.json"
+        skPackUrl = "https://modfest.net/1.16/pack/modfest-1-16.json"
+        selfupdateUrl = "https://modfest.net/1.16/pack/modfest-1-16.json"
     }
     voodoo {
         userFiles = FnPatternList(
@@ -42,14 +42,14 @@ root<Curse> {
         +Mod.cardinalComponents {
             curse.fileID = FileID(2990259)
         }
-        +Mod.libgui {
-            curse.fileID = FileID(2909428)
-        }
         +Mod.libblockattributes {
             curse.fileID = FileID(2981668)
         }
         (+ProjectID(306770)) { // Patchouli
             curse.fileID = FileID(2986825)
+        }
+        +Mod.cottonResources {
+            curse.fileID = FileID(2993390)
         }
 
         // Utils
@@ -59,11 +59,17 @@ root<Curse> {
         +Mod.makkit {
             curse.fileID = FileID(2986981)
         }
+        +Mod.lithium {
+            curse.fileID = FileID(2987754)
+        }
+        +Mod.phosphor {
+            curse.fileID = FileID(2987621)
+        }
 
         // Curse ModFest Mods
-        (+ProjectID(390991)) { // AdventureZ
-            curse.fileID = FileID(2988048)
-        }
+//        (+ProjectID(390991)) { // AdventureZ
+//            curse.fileID = FileID(2988048)
+//        }
         (+ProjectID(391739)) { // Astromine
             curse.fileID = FileID(2992203)
         }
@@ -77,7 +83,7 @@ root<Curse> {
             curse.fileID = FileID(2989686)
         }
         +Mod.deliciousDishes {
-            curse.fileID = FileID(2981722)
+            curse.fileID = FileID(2991883)
         }
         (+ProjectID(392015)) { // Eldritch Mobs
             curse.fileID = FileID(2989022)
@@ -95,7 +101,7 @@ root<Curse> {
             curse.fileID = FileID(2990840)
         }
         (+ProjectID(391186)) { // Landmark
-            curse.fileID = FileID(2992204)
+            curse.fileID = FileID(2992734)
         }
         (+ProjectID(391812)) { // Mobs Attempt Parkour
             curse.fileID = FileID(2990365)
@@ -116,8 +122,11 @@ root<Curse> {
             curse.fileID = FileID(2987851)
         }
 
-        // Direct ModFest Mods
         withTypeClass(Direct::class) { }.list {
+            // Direct ModFest Mods
+            +"adventurez" {
+                url = "https://cdn.discordapp.com/attachments/690273715166117899/727648262143868980/adventurez-1.0.2.jar"
+            }
             +"astrum" {
                 url = "https://github.com/The-Code-Monkey/ModFest/releases/download/1.0.1/astrum-1.0.0.jar"
             }
@@ -155,14 +164,14 @@ root<Curse> {
                 url = "https://github.com/FoundationGames/Labyrinthine/releases/download/0.1.0/labyrinthine-0.1.0.jar"
             }
             +"lacrimis" {
-                url = "https://ci.dblsaiko.net/job/lacrimis/6/artifact/build/libs/lacrimis-1.0.3.jar"
+                url = "https://ci.dblsaiko.net/job/lacrimis/8/artifact/build/libs/lacrimis-1.0.5.jar"
             }
             +"lilTaterBlock" {
                 url = "https://github.com/PheonixVX/lil-tater-block/releases/download/0.0.1-1.16/lil-tater-1368-revision-1.0.0.jar"
             }
-//            +"moreShulkerBoxes" { //TODO: fix
-//                url = "https://cdn.discordapp.com/attachments/720484460197314590/727052026801815612/gud_modfest116-1.0.1_1.jar"
-//            }
+            +"moreShulkerBoxes" {
+                url = "https://cdn.discordapp.com/attachments/720484460197314590/727259569507532870/gud_modfest116_specialsauce-1.0.5.jar"
+            }
             +"mycoturgy" {
                 url = "https://github.com/Boundarybreaker/Mycoturgy/releases/download/0.1.0%2B1.16.1/mycoturgy-0.1.0+1.16.1.jar"
             }
@@ -173,10 +182,10 @@ root<Curse> {
                 url = "https://github.com/Scotsguy/potion-of-get-his-ass/releases/download/v1.1.2%2B1.16.1/potion-of-get-his-ass-1.1.2+1.16.1.jar"
             }
             +"rainbow" {
-                url = "https://ci.hexeption.dev/job/Rainbow/job/master/14/artifact/build/libs/rainbow-1.16.1+1.0.0+build.14.jar"
+                url = "https://ci.hexeption.dev/job/Rainbow/job/master/15/artifact/build/libs/rainbow-1.16.1+1.0.1+build.15.jar"
             }
             +"rpgstats" {
-                url = "https://cdn.discordapp.com/attachments/720484460197314590/727154350186692608/rpgstats-1.0.21.16.1.jar"
+                url = "https://cdn.discordapp.com/attachments/690273715166117899/727643284218052648/rpgstats-1.1.31.16.1.jar"
             }
             +"smolDragons" {
                 url = "https://cdn.discordapp.com/attachments/720484460197314590/727050999868686337/smol-dragons-1.0.1.jar"
@@ -188,7 +197,12 @@ root<Curse> {
                 url = "https://cdn.discordapp.com/attachments/720484460197314590/726354727545339945/superworld-1.0.0-pre.6.jar"
             }
             +"theManhattanProject" {
-                url = "https://github.com/valoeghese/TheManhattanProject/releases/download/1.0.1/manhattan_project-1.0.1.jar"
+                url = "https://cdn.discordapp.com/attachments/690273715166117899/727634754035253292/manhattan_project-1.0.2.jar"
+            }
+
+            // Direct Util Mods
+            +"carpet" {
+                url = "https://cdn.discordapp.com/attachments/690273715166117899/727654198359097367/fabric-carpet-1.16-1.4.0v200623-custom.jar"
             }
         }
     }

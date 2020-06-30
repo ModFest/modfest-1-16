@@ -1,0 +1,28 @@
+{
+    "id": "modfest-1-16",
+    "mcVersion": "1.16.1",
+    "modloader": {
+        "type": "modloader.Fabric",
+        "loader": "0.8.9+build.203",
+        "intermediateMappings": "1.16.1",
+        "installer": "0.6.1.45"
+    },
+    "title": "ModFest 1.16",
+    "authors": [
+        "Prospector",
+        "B0undarybreaker"
+    ],
+    "packOptions": {
+        "multimcOptions": {
+            "skPackUrl": "https://modfest.net/1.16/pack/modfest-1-16.json",
+            "selfupdateUrl": "https://modfest.net/1.16/pack/modfest-1-16.json"
+        },
+        "experimentalOptions": {
+            "userFiles": {
+                "include": [
+                    "servers.dat"
+                ]
+            }
+        }
+    }
+}

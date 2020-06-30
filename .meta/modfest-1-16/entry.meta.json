@@ -1,15 +1,12 @@
 {
     "adventurez": {
         "id": "adventurez",
-        "version": "adventurez-1.0.1.jar",
-        "provider": "CURSE",
+        "version": "adventurez-1.0.2",
+        "provider": "DIRECT",
         "side": "BOTH",
         "optional": "false",
-        "dependencies.required": "fabric-api",
-        "filename": "adventurez-1.0.1.jar",
-        "direct.url": "https://edge.forgecdn.net/files/2988/48/adventurez-1.0.1.jar",
-        "curse.releasetype": "Release",
-        "curse.authors": "Globox_Z"
+        "filename": "adventurez-1.0.2.jar",
+        "direct.url": "https://cdn.discordapp.com/attachments/690273715166117899/727648262143868980/adventurez-1.0.2.jar"
     },
     "astromine-fabric": {
         "id": "astromine-fabric",
@@ -113,6 +110,15 @@
         "filename": "CargoRockets-0.1.0-alpha+1.16.1.jar",
         "direct.url": "https://github.com/JoeZwet/CargoRockets/releases/download/0.1.0-alpha%2B1.16.1/CargoRockets-0.1.0-alpha+1.16.1.jar"
     },
+    "carpet": {
+        "id": "carpet",
+        "version": "fabric-carpet-1.16-1.4.0v200623-custom",
+        "provider": "DIRECT",
+        "side": "BOTH",
+        "optional": "false",
+        "filename": "fabric-carpet-1.16-1.4.0v200623-custom.jar",
+        "direct.url": "https://cdn.discordapp.com/attachments/690273715166117899/727654198359097367/fabric-carpet-1.16-1.4.0v200623-custom.jar"
+    },
     "concraftwaylifeofgamemine": {
         "id": "concraftwaylifeofgamemine",
         "version": "concraftwaylifeofgamemine-1.1.0+1.16.1",
@@ -121,6 +127,18 @@
         "optional": "false",
         "filename": "concraftwaylifeofgamemine-1.1.0+1.16.1.jar",
         "direct.url": "https://github.com/TheEpicBlock/concraftwaylifeofgamemine/releases/download/v1.1.0/concraftwaylifeofgamemine-1.1.0+1.16.1.jar"
+    },
+    "cotton-resources": {
+        "id": "cotton-resources",
+        "version": "cotton-resources+unspecified-1.7.1.jar",
+        "provider": "CURSE",
+        "side": "BOTH",
+        "optional": "false",
+        "dependencies.required": "fabric-api",
+        "filename": "cotton-resources+unspecified-1.7.1.jar",
+        "direct.url": "https://edge.forgecdn.net/files/2993/390/cotton-resources+unspecified-1.7.1.jar",
+        "curse.releasetype": "Release",
+        "curse.authors": "B0undarybreaker, falkreon, frontridermergedfromcurse, i509vcb, Pannoniae"
     },
     "crusade": {
         "id": "crusade",
@@ -144,13 +162,13 @@
     },
     "delicious-dishes": {
         "id": "delicious-dishes",
-        "version": "dishes-1.0.1.jar",
+        "version": "dishes-1.0.2.jar",
         "provider": "CURSE",
         "side": "BOTH",
         "optional": "false",
         "dependencies.required": "fabric-api",
-        "filename": "dishes-1.0.1.jar",
-        "direct.url": "https://edge.forgecdn.net/files/2981/722/dishes-1.0.1.jar",
+        "filename": "dishes-1.0.2.jar",
+        "direct.url": "https://edge.forgecdn.net/files/2991/883/dishes-1.0.2.jar",
         "curse.releasetype": "Release",
         "curse.authors": "Motschen"
     },
@@ -280,21 +298,21 @@
     },
     "lacrimis": {
         "id": "lacrimis",
-        "version": "lacrimis-1.0.3",
+        "version": "lacrimis-1.0.5",
         "provider": "DIRECT",
         "side": "BOTH",
         "optional": "false",
-        "filename": "lacrimis-1.0.3.jar",
-        "direct.url": "https://ci.dblsaiko.net/job/lacrimis/6/artifact/build/libs/lacrimis-1.0.3.jar"
+        "filename": "lacrimis-1.0.5.jar",
+        "direct.url": "https://ci.dblsaiko.net/job/lacrimis/8/artifact/build/libs/lacrimis-1.0.5.jar"
     },
     "landmark": {
         "id": "landmark",
-        "version": "landmark-0.1.3.jar",
+        "version": "landmark-0.1.4.jar",
         "provider": "CURSE",
         "side": "BOTH",
         "optional": "false",
-        "filename": "landmark-0.1.3.jar",
-        "direct.url": "https://edge.forgecdn.net/files/2992/204/landmark-0.1.3.jar",
+        "filename": "landmark-0.1.4.jar",
+        "direct.url": "https://edge.forgecdn.net/files/2992/734/landmark-0.1.4.jar",
         "curse.releasetype": "Release",
         "curse.authors": "HephaestusDev"
     },
@@ -318,6 +336,17 @@
         "optional": "false",
         "filename": "lil-tater-1368-revision-1.0.0.jar",
         "direct.url": "https://github.com/PheonixVX/lil-tater-block/releases/download/0.0.1-1.16/lil-tater-1368-revision-1.0.0.jar"
+    },
+    "lithium": {
+        "id": "lithium",
+        "version": "lithium-fabric-mc1.16.1-0.5.0-rc1.jar",
+        "provider": "CURSE",
+        "side": "BOTH",
+        "optional": "false",
+        "filename": "lithium-fabric-mc1.16.1-0.5.0-rc1.jar",
+        "direct.url": "https://edge.forgecdn.net/files/2987/754/lithium-fabric-mc1.16.1-0.5.0-rc1.jar",
+        "curse.releasetype": "Beta",
+        "curse.authors": "jellysquid_"
     },
     "makkit": {
         "id": "makkit",
@@ -367,12 +396,12 @@
     },
     "moreshulkerboxes": {
         "id": "moreShulkerBoxes",
-        "version": "gud_modfest116-1.0.4",
+        "version": "gud_modfest116_specialsauce-1.0.5",
         "provider": "DIRECT",
         "side": "BOTH",
         "optional": "false",
-        "filename": "gud_modfest116-1.0.4.jar",
-        "direct.url": "https://cdn.discordapp.com/attachments/458307292421554178/727236571228799086/gud_modfest116-1.0.4.jar"
+        "filename": "gud_modfest116_specialsauce-1.0.5.jar",
+        "direct.url": "https://cdn.discordapp.com/attachments/720484460197314590/727259569507532870/gud_modfest116_specialsauce-1.0.5.jar"
     },
     "muffle": {
         "id": "muffle",
@@ -405,6 +434,17 @@
         "curse.releasetype": "Beta",
         "curse.authors": "Vazkii"
     },
+    "phosphor": {
+        "id": "phosphor",
+        "version": "phosphor-fabric-mc1.16.1-0.6.0+build.7.jar",
+        "provider": "CURSE",
+        "side": "BOTH",
+        "optional": "false",
+        "filename": "phosphor-fabric-mc1.16.1-0.6.0+build.7.jar",
+        "direct.url": "https://edge.forgecdn.net/files/2987/621/phosphor-fabric-mc1.16.1-0.6.0+build.7.jar",
+        "curse.releasetype": "Release",
+        "curse.authors": "jellysquid_"
+    },
     "polydungeons": {
         "id": "polyDungeons",
         "version": "polydungeons-1.0",
@@ -436,12 +476,12 @@
     },
     "rainbow": {
         "id": "rainbow",
-        "version": "rainbow-1.16.1+1.0.0+build.14",
+        "version": "rainbow-1.16.1+1.0.1+build.15",
         "provider": "DIRECT",
         "side": "BOTH",
         "optional": "false",
-        "filename": "rainbow-1.16.1+1.0.0+build.14.jar",
-        "direct.url": "https://ci.hexeption.dev/job/Rainbow/job/master/14/artifact/build/libs/rainbow-1.16.1+1.0.0+build.14.jar"
+        "filename": "rainbow-1.16.1+1.0.1+build.15.jar",
+        "direct.url": "https://ci.hexeption.dev/job/Rainbow/job/master/15/artifact/build/libs/rainbow-1.16.1+1.0.1+build.15.jar"
     },
     "roughly-enough-items": {
         "id": "roughly-enough-items",
@@ -457,12 +497,12 @@
     },
     "rpgstats": {
         "id": "rpgstats",
-        "version": "rpgstats-1.0.21.16.1",
+        "version": "rpgstats-1.1.31.16.1",
         "provider": "DIRECT",
         "side": "BOTH",
         "optional": "false",
-        "filename": "rpgstats-1.0.21.16.1.jar",
-        "direct.url": "https://cdn.discordapp.com/attachments/720484460197314590/727154350186692608/rpgstats-1.0.21.16.1.jar"
+        "filename": "rpgstats-1.1.31.16.1.jar",
+        "direct.url": "https://cdn.discordapp.com/attachments/690273715166117899/727643284218052648/rpgstats-1.1.31.16.1.jar"
     },
     "smoldragons": {
         "id": "smolDragons",
@@ -493,12 +533,12 @@
     },
     "themanhattanproject": {
         "id": "theManhattanProject",
-        "version": "manhattan_project-1.0.1",
+        "version": "manhattan_project-1.0.2",
         "provider": "DIRECT",
         "side": "BOTH",
         "optional": "false",
-        "filename": "manhattan_project-1.0.1.jar",
-        "direct.url": "https://github.com/valoeghese/TheManhattanProject/releases/download/1.0.1/manhattan_project-1.0.1.jar"
+        "filename": "manhattan_project-1.0.2.jar",
+        "direct.url": "https://cdn.discordapp.com/attachments/690273715166117899/727634754035253292/manhattan_project-1.0.2.jar"
     },
     "twine": {
         "id": "twine",
@@ -533,6 +573,6 @@
         "filename": "worldedit-fabric-mc1.16.1-7.2.0-beta-01.jar",
         "direct.url": "https://edge.forgecdn.net/files/2988/278/worldedit-fabric-mc1.16.1-7.2.0-beta-01.jar",
         "curse.releasetype": "Beta",
-        "curse.authors": "me4502, sk89q, wizjany_"
+        "curse.authors": "me4502, octylFractal, sk89q, wizjany_"
     }
 }
