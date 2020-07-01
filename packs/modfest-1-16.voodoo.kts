@@ -92,7 +92,7 @@ root<Curse> {
             curse.fileID = FileID(2993480)
         }
         (+ProjectID(391796)) { // Glowcase
-            curse.fileID = FileID(2993620)
+            curse.fileID = FileID(2993641)
         }
         (+ProjectID(391897)) { // Heart of the Machine
             curse.fileID = FileID(2988449)
