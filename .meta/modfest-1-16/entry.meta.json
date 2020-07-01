@@ -98,15 +98,6 @@
         "filename": "CargoRockets-0.1.0-alpha+1.16.1.jar",
         "direct.url": "https://github.com/JoeZwet/CargoRockets/releases/download/0.1.0-alpha%2B1.16.1/CargoRockets-0.1.0-alpha+1.16.1.jar"
     },
-    "carpet": {
-        "id": "carpet",
-        "version": "fabric-carpet-1.16-1.4.0v200623-custom",
-        "provider": "DIRECT",
-        "side": "BOTH",
-        "optional": "false",
-        "filename": "fabric-carpet-1.16-1.4.0v200623-custom.jar",
-        "direct.url": "https://cdn.discordapp.com/attachments/690273715166117899/727654198359097367/fabric-carpet-1.16-1.4.0v200623-custom.jar"
-    },
     "concraftwaylifeofgamemine": {
         "id": "concraftwaylifeofgamemine",
         "version": "concraftwaylifeofgamemine-1.1.0+1.16.1",
@@ -286,12 +277,12 @@
     },
     "lacrimis": {
         "id": "lacrimis",
-        "version": "lacrimis-1.0.5",
+        "version": "lacrimis-1.0.7",
         "provider": "DIRECT",
         "side": "BOTH",
         "optional": "false",
-        "filename": "lacrimis-1.0.5.jar",
-        "direct.url": "https://ci.dblsaiko.net/job/lacrimis/8/artifact/build/libs/lacrimis-1.0.5.jar"
+        "filename": "lacrimis-1.0.7.jar",
+        "direct.url": "https://ci.dblsaiko.net/job/lacrimis/lastSuccessfulBuild/artifact/build/libs/lacrimis-1.0.7.jar"
     },
     "landmark": {
         "id": "landmark",

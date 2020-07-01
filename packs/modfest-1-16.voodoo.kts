@@ -186,7 +186,7 @@ root<Curse> {
                 url = "https://github.com/FoundationGames/Labyrinthine/releases/download/0.1.1/labyrinthine-0.1.1.jar"
             }
             +"lacrimis" {
-                url = "https://ci.dblsaiko.net/job/lacrimis/8/artifact/build/libs/lacrimis-1.0.5.jar"
+                url = "https://ci.dblsaiko.net/job/lacrimis/lastSuccessfulBuild/artifact/build/libs/lacrimis-1.0.7.jar"
             }
             +"lilTaterBlock" {
                 url = "https://github.com/PheonixVX/lil-tater-block/releases/download/0.0.1-1.16/lil-tater-1368-revision-1.0.0.jar"
