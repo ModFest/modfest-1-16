@@ -74,7 +74,7 @@ root<Curse> {
 //            curse.fileID = FileID(2988048)
 //        }
         (+ProjectID(391739)) { // Astromine
-            curse.fileID = FileID(2993665)
+            curse.fileID = FileID(2993748)
         }
         (+ProjectID(391532)) { // Astrum
             curse.fileID = FileID(2988088)
@@ -210,7 +210,7 @@ root<Curse> {
                 url = "https://cdn.discordapp.com/attachments/345364115726008332/727695753757327430/hahayesrpgstats-1.1.31.16.1.jar"
             }
             +"smolDragons" {
-                url = "https://cdn.discordapp.com/attachments/720484460197314590/727050999868686337/smol-dragons-1.0.1.jar"
+                url = "https://dblsaiko.net/pub/modfest/mods/smol-dragons-1.0.1.jar"
             }
             +"sunirl" {
                 url = "https://github.com/TIVJ-dev/SunIRL/releases/download/1.1/sunirl-1.1.jar"
