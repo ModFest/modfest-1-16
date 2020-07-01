@@ -225,12 +225,12 @@
     },
     "haema": {
         "id": "haema",
-        "version": "haema-1.0.0",
+        "version": "haema-1.1.0",
         "provider": "DIRECT",
         "side": "BOTH",
         "optional": "false",
-        "filename": "haema-1.0.0.jar",
-        "direct.url": "https://github.com/williambl/haema/releases/download/v1.0.0/haema-1.0.0.jar"
+        "filename": "haema-1.1.0.jar",
+        "direct.url": "https://github.com/williambl/haema/releases/download/v1.1.0/haema-1.1.0.jar"
     },
     "heart-of-the-machine": {
         "id": "heart-of-the-machine",

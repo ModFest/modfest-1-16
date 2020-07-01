@@ -177,7 +177,7 @@ root<Curse> {
                 url = "https://github.com/Scotsguy/fly-creeper-fly/releases/download/v1.0.0%2B1.16.1/fly-creeper-fly-1.0.0+1.16.1.jar"
             }
             +"haema" {
-                url = "https://github.com/williambl/haema/releases/download/v1.0.0/haema-1.0.0.jar"
+                url = "https://github.com/williambl/haema/releases/download/v1.1.0/haema-1.1.0.jar"
             }
             +"homestuckLoadingScreen" {
                 url = "https://immibis.com/mcmodjam/homestuck_loading_screen-1.0.0.jar"
