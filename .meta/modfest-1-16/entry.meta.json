@@ -80,12 +80,12 @@
     },
     "bruhmoment": {
         "id": "bruhMoment",
-        "version": "fabric-carpet-1.16-1.4.0v200623-custom",
+        "version": "bruh-moment-0.2.0",
         "provider": "DIRECT",
         "side": "BOTH",
         "optional": "false",
-        "filename": "fabric-carpet-1.16-1.4.0v200623-custom.jar",
-        "direct.url": "https://cdn.discordapp.com/attachments/690273715166117899/727654198359097367/fabric-carpet-1.16-1.4.0v200623-custom.jar"
+        "filename": "bruh-moment-0.2.0.jar",
+        "direct.url": "https://cdn.discordapp.com/attachments/690273715166117899/727807352182407208/bruh-moment-0.2.0.jar"
     },
     "cardinal-components": {
         "id": "cardinal-components",

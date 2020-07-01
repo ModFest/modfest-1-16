@@ -227,7 +227,7 @@ root<Curse> {
 //                url = "https://cdn.discordapp.com/attachments/690273715166117899/727654198359097367/fabric-carpet-1.16-1.4.0v200623-custom.jar"
 //            }
             +"bruhMoment" {
-                url = "https://cdn.discordapp.com/attachments/690273715166117899/727654198359097367/fabric-carpet-1.16-1.4.0v200623-custom.jar"
+                url = "https://cdn.discordapp.com/attachments/690273715166117899/727807352182407208/bruh-moment-0.2.0.jar"
             }
         }
     }
