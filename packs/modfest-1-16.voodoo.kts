@@ -34,7 +34,7 @@ root<Curse> {
             curse.fileID = FileID(2989695)
         }
         +Mod.roughlyEnoughItems {
-            curse.fileID = FileID(2993694)
+            curse.fileID = FileID(2993681)
         }
 //        +Mod.canvasRenderer {
 //            curse.fileID = FileID(2989428)
@@ -82,9 +82,9 @@ root<Curse> {
         (+ProjectID(392045)) { // Biospheres
             curse.fileID = FileID(2990133)
         }
-        +Mod.crusade {
-            curse.fileID = FileID(2989686)
-        }
+//        +Mod.crusade {
+//            curse.fileID = FileID(2993919)
+//        }
         +Mod.deliciousDishes {
             curse.fileID = FileID(2991883)
         }
@@ -95,7 +95,7 @@ root<Curse> {
             curse.fileID = FileID(2993641)
         }
         (+ProjectID(391897)) { // Heart of the Machine
-            curse.fileID = FileID(2988449)
+            curse.fileID = FileID(2993851)
         }
         (+ProjectID(390001)) { // Herbocraft
             curse.fileID = FileID(2990657)
@@ -213,13 +213,16 @@ root<Curse> {
                 url = "https://dblsaiko.net/pub/modfest/mods/smol-dragons-1.0.1.jar"
             }
             +"sunirl" {
-                url = "https://github.com/TIVJ-dev/SunIRL/releases/download/1.1/sunirl-1.1.jar"
+                url = "https://github.com/TIVJ-dev/SunIRL/releases/download/1.1.1/sunirl-1.1.1.jar"
             }
             +"superworld" {
                 url = "https://cdn.discordapp.com/attachments/720484460197314590/726354727545339945/superworld-1.0.0-pre.6.jar"
             }
             +"theManhattanProject" {
                 url = "https://cdn.discordapp.com/attachments/690273715166117899/727634754035253292/manhattan_project-1.0.2.jar"
+            }
+            +"crusade" {
+                url = "https://cdn.discordapp.com/attachments/690273715166117899/727926651048165376/crusade-mod-1.1.11.16.1.jar"
             }
 
             // Direct Util Mods

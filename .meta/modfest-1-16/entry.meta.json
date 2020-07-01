@@ -130,14 +130,12 @@
     },
     "crusade": {
         "id": "crusade",
-        "version": "crusade-mod-1.1.0-1.16.all.jar",
-        "provider": "CURSE",
+        "version": "crusade-mod-1.1.11.16.1",
+        "provider": "DIRECT",
         "side": "BOTH",
         "optional": "false",
-        "filename": "crusade-mod-1.1.0-1.16.all.jar",
-        "direct.url": "https://edge.forgecdn.net/files/2989/686/crusade-mod-1.1.0-1.16.all.jar",
-        "curse.releasetype": "Release",
-        "curse.authors": "cool_mineman"
+        "filename": "crusade-mod-1.1.11.16.1.jar",
+        "direct.url": "https://cdn.discordapp.com/attachments/690273715166117899/727926651048165376/crusade-mod-1.1.11.16.1.jar"
     },
     "cursed": {
         "id": "cursed",
@@ -234,13 +232,14 @@
     },
     "heart-of-the-machine": {
         "id": "heart-of-the-machine",
-        "version": "heart-of-the-machine-1.16.1-0.1.0.jar",
+        "version": "heart-of-the-machine-1.16.1-0.1.1.jar",
         "provider": "CURSE",
         "side": "BOTH",
         "optional": "false",
-        "filename": "heart-of-the-machine-1.16.1-0.1.0.jar",
-        "direct.url": "https://edge.forgecdn.net/files/2988/449/heart-of-the-machine-1.16.1-0.1.0.jar",
-        "curse.releasetype": "Alpha",
+        "dependencies.required": "fabric-language-kotlin",
+        "filename": "heart-of-the-machine-1.16.1-0.1.1.jar",
+        "direct.url": "https://edge.forgecdn.net/files/2993/851/heart-of-the-machine-1.16.1-0.1.1.jar",
+        "curse.releasetype": "Beta",
         "curse.authors": "Kneelawk, meelock_"
     },
     "herbocraft": {
@@ -507,13 +506,13 @@
     },
     "roughly-enough-items": {
         "id": "roughly-enough-items",
-        "version": "RoughlyEnoughItems-4.6.4.jar",
+        "version": "RoughlyEnoughItems-4.6.2.jar",
         "provider": "CURSE",
         "side": "BOTH",
         "optional": "false",
         "dependencies.required": "fabric-api",
-        "filename": "RoughlyEnoughItems-4.6.4.jar",
-        "direct.url": "https://edge.forgecdn.net/files/2993/694/RoughlyEnoughItems-4.6.4.jar",
+        "filename": "RoughlyEnoughItems-4.6.2.jar",
+        "direct.url": "https://edge.forgecdn.net/files/2993/681/RoughlyEnoughItems-4.6.2.jar",
         "curse.releasetype": "Release",
         "curse.authors": "linkieisbetterthank9, shedaniel"
     },
@@ -537,12 +536,12 @@
     },
     "sunirl": {
         "id": "sunirl",
-        "version": "sunirl-1.1",
+        "version": "sunirl-1.1.1",
         "provider": "DIRECT",
         "side": "BOTH",
         "optional": "false",
-        "filename": "sunirl-1.1.jar",
-        "direct.url": "https://github.com/TIVJ-dev/SunIRL/releases/download/1.1/sunirl-1.1.jar"
+        "filename": "sunirl-1.1.1.jar",
+        "direct.url": "https://github.com/TIVJ-dev/SunIRL/releases/download/1.1.1/sunirl-1.1.1.jar"
     },
     "superworld": {
         "id": "superworld",
