@@ -34,7 +34,7 @@ root<Curse> {
             curse.fileID = FileID(2989695)
         }
         +Mod.roughlyEnoughItems {
-            curse.fileID = FileID(2993643)
+            curse.fileID = FileID(2993694)
         }
 //        +Mod.canvasRenderer {
 //            curse.fileID = FileID(2989428)
@@ -195,7 +195,7 @@ root<Curse> {
                 url = "https://cdn.discordapp.com/attachments/458307292421554178/727749737217785916/gud_modfest116_specialsauce-1.0.7.jar"
             }
             +"mycoturgy" {
-                url = "https://github.com/Boundarybreaker/Mycoturgy/releases/download/0.1.0%2B1.16.1/mycoturgy-0.1.0+1.16.1.jar"
+                url = "https://github.com/Boundarybreaker/Mycoturgy/releases/download/0.1.1%2B1.16.1/mycoturgy-0.1.1+1.16.1.jar"
             }
             +"polyDungeons" {
                 url = "https://github.com/Earthcomputer/PolyDungeons/releases/download/v1.0/polydungeons-1.0.jar"
@@ -226,6 +226,9 @@ root<Curse> {
 //            +"carpet" {
 //                url = "https://cdn.discordapp.com/attachments/690273715166117899/727654198359097367/fabric-carpet-1.16-1.4.0v200623-custom.jar"
 //            }
+            +"bruhMoment" {
+                url = "https://cdn.discordapp.com/attachments/690273715166117899/727654198359097367/fabric-carpet-1.16-1.4.0v200623-custom.jar"
+            }
         }
     }
 }

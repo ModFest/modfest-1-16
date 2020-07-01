@@ -78,6 +78,15 @@
         "filename": "bonecheese-0.9.9-pre.9.9.9.9.9.9.but.without.the.include.but.reuploaded.because.prospector.deleted.t.jar",
         "direct.url": "https://cdn.discordapp.com/attachments/720484460197314590/727051566380744735/bonecheese-0.9.9-pre.9.9.9.9.9.9.but.without.the.include.but.reuploaded.because.prospector.deleted.t.jar"
     },
+    "bruhmoment": {
+        "id": "bruhMoment",
+        "version": "fabric-carpet-1.16-1.4.0v200623-custom",
+        "provider": "DIRECT",
+        "side": "BOTH",
+        "optional": "false",
+        "filename": "fabric-carpet-1.16-1.4.0v200623-custom.jar",
+        "direct.url": "https://cdn.discordapp.com/attachments/690273715166117899/727654198359097367/fabric-carpet-1.16-1.4.0v200623-custom.jar"
+    },
     "cardinal-components": {
         "id": "cardinal-components",
         "version": "Cardinal-Components-API-2.4.1.jar",
@@ -419,12 +428,12 @@
     },
     "mycoturgy": {
         "id": "mycoturgy",
-        "version": "mycoturgy-0.1.0+1.16.1",
+        "version": "mycoturgy-0.1.1+1.16.1",
         "provider": "DIRECT",
         "side": "BOTH",
         "optional": "false",
-        "filename": "mycoturgy-0.1.0+1.16.1.jar",
-        "direct.url": "https://github.com/Boundarybreaker/Mycoturgy/releases/download/0.1.0%2B1.16.1/mycoturgy-0.1.0+1.16.1.jar"
+        "filename": "mycoturgy-0.1.1+1.16.1.jar",
+        "direct.url": "https://github.com/Boundarybreaker/Mycoturgy/releases/download/0.1.1%2B1.16.1/mycoturgy-0.1.1+1.16.1.jar"
     },
     "patchouli": {
         "id": "patchouli",
@@ -498,13 +507,13 @@
     },
     "roughly-enough-items": {
         "id": "roughly-enough-items",
-        "version": "RoughlyEnoughItems-4.6.1.jar",
+        "version": "RoughlyEnoughItems-4.6.4.jar",
         "provider": "CURSE",
         "side": "BOTH",
         "optional": "false",
         "dependencies.required": "fabric-api",
-        "filename": "RoughlyEnoughItems-4.6.1.jar",
-        "direct.url": "https://edge.forgecdn.net/files/2993/643/RoughlyEnoughItems-4.6.1.jar",
+        "filename": "RoughlyEnoughItems-4.6.4.jar",
+        "direct.url": "https://edge.forgecdn.net/files/2993/694/RoughlyEnoughItems-4.6.4.jar",
         "curse.releasetype": "Release",
         "curse.authors": "linkieisbetterthank9, shedaniel"
     },
