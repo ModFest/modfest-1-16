@@ -34,7 +34,7 @@ root<Curse> {
             curse.fileID = FileID(2989695)
         }
         +Mod.roughlyEnoughItems {
-            curse.fileID = FileID(2988210)
+            curse.fileID = FileID(2993643)
         }
 //        +Mod.canvasRenderer {
 //            curse.fileID = FileID(2989428)
