@@ -10,12 +10,12 @@
     },
     "astromine-fabric": {
         "id": "astromine-fabric",
-        "version": "astromine-1.0.16+fabric-1.16.1.jar",
+        "version": "astromine-1.0.19+fabric-1.16.1.jar",
         "provider": "CURSE",
         "side": "BOTH",
         "optional": "false",
-        "filename": "astromine-1.0.16+fabric-1.16.1.jar",
-        "direct.url": "https://edge.forgecdn.net/files/2992/203/astromine-1.0.16+fabric-1.16.1.jar",
+        "filename": "astromine-1.0.19+fabric-1.16.1.jar",
+        "direct.url": "https://edge.forgecdn.net/files/2993/539/astromine-1.0.19+fabric-1.16.1.jar",
         "curse.releasetype": "Release",
         "curse.authors": "bolkor_, Draylar1, halfbuilders, shedaniel, Shnupbups, SuperCoder79"
     },
@@ -77,18 +77,6 @@
         "optional": "false",
         "filename": "bonecheese-0.9.9-pre.9.9.9.9.9.9.but.without.the.include.but.reuploaded.because.prospector.deleted.t.jar",
         "direct.url": "https://cdn.discordapp.com/attachments/720484460197314590/727051566380744735/bonecheese-0.9.9-pre.9.9.9.9.9.9.but.without.the.include.but.reuploaded.because.prospector.deleted.t.jar"
-    },
-    "canvas-renderer": {
-        "id": "canvas-renderer",
-        "version": "canvas-mc116-1.0.728.jar",
-        "provider": "CURSE",
-        "side": "BOTH",
-        "optional": "false",
-        "dependencies.required": "fabric-api",
-        "filename": "canvas-mc116-1.0.728.jar",
-        "direct.url": "https://edge.forgecdn.net/files/2989/428/canvas-mc116-1.0.728.jar",
-        "curse.releasetype": "Beta",
-        "curse.authors": "grondagthebarbarian"
     },
     "cardinal-components": {
         "id": "cardinal-components",
@@ -174,13 +162,13 @@
     },
     "eldritch-mobs": {
         "id": "eldritch-mobs",
-        "version": "eldritch-mobs-1.0.0.jar",
+        "version": "eldritch-mobs-1.1.0.jar",
         "provider": "CURSE",
         "side": "BOTH",
         "optional": "false",
         "dependencies.required": "cardinal-components",
-        "filename": "eldritch-mobs-1.0.0.jar",
-        "direct.url": "https://edge.forgecdn.net/files/2989/22/eldritch-mobs-1.0.0.jar",
+        "filename": "eldritch-mobs-1.1.0.jar",
+        "direct.url": "https://edge.forgecdn.net/files/2993/480/eldritch-mobs-1.1.0.jar",
         "curse.releasetype": "Release",
         "curse.authors": "cyborg_pigeon"
     },
@@ -289,12 +277,12 @@
     },
     "labyrinthine": {
         "id": "labyrinthine",
-        "version": "labyrinthine-0.1.0",
+        "version": "labyrinthine-0.1.1",
         "provider": "DIRECT",
         "side": "BOTH",
         "optional": "false",
-        "filename": "labyrinthine-0.1.0.jar",
-        "direct.url": "https://github.com/FoundationGames/Labyrinthine/releases/download/0.1.0/labyrinthine-0.1.0.jar"
+        "filename": "labyrinthine-0.1.1.jar",
+        "direct.url": "https://github.com/FoundationGames/Labyrinthine/releases/download/0.1.1/labyrinthine-0.1.1.jar"
     },
     "lacrimis": {
         "id": "lacrimis",
@@ -359,6 +347,30 @@
         "direct.url": "https://edge.forgecdn.net/files/2986/981/makkit-1.0.2.jar",
         "curse.releasetype": "Release",
         "curse.authors": "ejektaflex"
+    },
+    "malilib": {
+        "id": "malilib",
+        "version": "malilib-fabric-1.16.1-0.10.0-dev.21+arne.1.jar",
+        "provider": "CURSE",
+        "side": "BOTH",
+        "optional": "false",
+        "filename": "malilib-fabric-1.16.1-0.10.0-dev.21+arne.1.jar",
+        "direct.url": "https://edge.forgecdn.net/files/2993/139/malilib-fabric-1.16.1-0.10.0-dev.21+arne.1.jar",
+        "curse.releasetype": "Release",
+        "curse.authors": "masady"
+    },
+    "minihud": {
+        "id": "minihud",
+        "version": "minihud-fabric-1.16.1-0.19.0-dev.20200701.005153.jar",
+        "provider": "CURSE",
+        "side": "BOTH",
+        "description": "Displays server TPS and MSPT. Helpful for debugging.",
+        "optional": "true",
+        "dependencies.required": "malilib",
+        "filename": "minihud-fabric-1.16.1-0.19.0-dev.20200701.005153.jar",
+        "direct.url": "https://edge.forgecdn.net/files/2993/429/minihud-fabric-1.16.1-0.19.0-dev.20200701.005153.jar",
+        "curse.releasetype": "Beta",
+        "curse.authors": "masady"
     },
     "mobs-attempt-parkour": {
         "id": "mobs-attempt-parkour",
@@ -425,14 +437,12 @@
     },
     "patchouli": {
         "id": "patchouli",
-        "version": "Patchouli-1.16-36-FABRIC.jar",
-        "provider": "CURSE",
+        "version": "Patchouli-1.16-36.190",
+        "provider": "DIRECT",
         "side": "BOTH",
         "optional": "false",
-        "filename": "Patchouli-1.16-36-FABRIC.jar",
-        "direct.url": "https://edge.forgecdn.net/files/2986/825/Patchouli-1.16-36-FABRIC.jar",
-        "curse.releasetype": "Beta",
-        "curse.authors": "Vazkii"
+        "filename": "Patchouli-1.16-36.190.jar",
+        "direct.url": "https://cdn.discordapp.com/attachments/690273715166117899/727711990608560158/Patchouli-1.16-36.190.jar"
     },
     "phosphor": {
         "id": "phosphor",
@@ -483,6 +493,18 @@
         "filename": "rainbow-1.16.1+1.0.1+build.15.jar",
         "direct.url": "https://ci.hexeption.dev/job/Rainbow/job/master/15/artifact/build/libs/rainbow-1.16.1+1.0.1+build.15.jar"
     },
+    "retino": {
+        "id": "retino",
+        "version": "retino-1.0.0.jar",
+        "provider": "CURSE",
+        "side": "BOTH",
+        "description": "Fixes issues with retina display on Mac. Don't use otherwise.",
+        "optional": "true",
+        "filename": "retino-1.0.0.jar",
+        "direct.url": "https://edge.forgecdn.net/files/2913/792/retino-1.0.0.jar",
+        "curse.releasetype": "Release",
+        "curse.authors": "Juliand665"
+    },
     "roughly-enough-items": {
         "id": "roughly-enough-items",
         "version": "RoughlyEnoughItems-4.5.5.jar",
@@ -497,12 +519,12 @@
     },
     "rpgstats": {
         "id": "rpgstats",
-        "version": "rpgstats-1.1.31.16.1",
+        "version": "hahayesrpgstats-1.1.31.16.1",
         "provider": "DIRECT",
         "side": "BOTH",
         "optional": "false",
-        "filename": "rpgstats-1.1.31.16.1.jar",
-        "direct.url": "https://cdn.discordapp.com/attachments/690273715166117899/727643284218052648/rpgstats-1.1.31.16.1.jar"
+        "filename": "hahayesrpgstats-1.1.31.16.1.jar",
+        "direct.url": "https://cdn.discordapp.com/attachments/345364115726008332/727695753757327430/hahayesrpgstats-1.1.31.16.1.jar"
     },
     "smoldragons": {
         "id": "smolDragons",

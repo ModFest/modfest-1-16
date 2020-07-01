@@ -36,18 +36,21 @@ root<Curse> {
         +Mod.roughlyEnoughItems {
             curse.fileID = FileID(2988210)
         }
-        +Mod.canvasRenderer {
-            curse.fileID = FileID(2989428)
-        }
+//        +Mod.canvasRenderer {
+//            curse.fileID = FileID(2989428)
+//        }
         +Mod.cardinalComponents {
             curse.fileID = FileID(2990259)
         }
         +Mod.libblockattributes {
             curse.fileID = FileID(2981668)
         }
-        (+ProjectID(306770)) { // Patchouli
-            curse.fileID = FileID(2986825)
+        +Mod.malilib {
+            curse.fileID = FileID(2993139)
         }
+//        (+ProjectID(306770)) { // Patchouli
+//            curse.fileID = FileID(2986825)
+//        }
         +Mod.cottonResources {
             curse.fileID = FileID(2993390)
         }
@@ -71,7 +74,7 @@ root<Curse> {
 //            curse.fileID = FileID(2988048)
 //        }
         (+ProjectID(391739)) { // Astromine
-            curse.fileID = FileID(2992203)
+            curse.fileID = FileID(2993539)
         }
         (+ProjectID(391532)) { // Astrum
             curse.fileID = FileID(2988088)
@@ -86,7 +89,7 @@ root<Curse> {
             curse.fileID = FileID(2991883)
         }
         (+ProjectID(392015)) { // Eldritch Mobs
-            curse.fileID = FileID(2989022)
+            curse.fileID = FileID(2993480)
         }
         (+ProjectID(391796)) { // Glowcase
             curse.fileID = FileID(2989076)
@@ -122,7 +125,26 @@ root<Curse> {
             curse.fileID = FileID(2987851)
         }
 
+        group {
+            optional {
+                selected = false
+            }
+        }.list {
+            +Mod.retino {
+                curse.fileID = FileID(2913792)
+                description = "Fixes issues with retina display on Mac. Don't use otherwise."
+            }
+            +Mod.minihud {
+                curse.fileID = FileID(2993429)
+                description = "Displays server TPS and MSPT. Helpful for debugging."
+            }
+        }
+
         withTypeClass(Direct::class) { }.list {
+            // Deps
+            +"patchouli" {
+                url = "https://cdn.discordapp.com/attachments/690273715166117899/727711990608560158/Patchouli-1.16-36.190.jar"
+            }
             // Direct ModFest Mods
             +"adventurez" {
                 url = "https://cdn.discordapp.com/attachments/690273715166117899/727648262143868980/adventurez-1.0.2.jar"
@@ -161,7 +183,7 @@ root<Curse> {
                 url = "https://immibis.com/mcmodjam/homestuck_loading_screen-1.0.0.jar"
             }
             +"labyrinthine" {
-                url = "https://github.com/FoundationGames/Labyrinthine/releases/download/0.1.0/labyrinthine-0.1.0.jar"
+                url = "https://github.com/FoundationGames/Labyrinthine/releases/download/0.1.1/labyrinthine-0.1.1.jar"
             }
             +"lacrimis" {
                 url = "https://ci.dblsaiko.net/job/lacrimis/8/artifact/build/libs/lacrimis-1.0.5.jar"
@@ -185,7 +207,7 @@ root<Curse> {
                 url = "https://ci.hexeption.dev/job/Rainbow/job/master/15/artifact/build/libs/rainbow-1.16.1+1.0.1+build.15.jar"
             }
             +"rpgstats" {
-                url = "https://cdn.discordapp.com/attachments/690273715166117899/727643284218052648/rpgstats-1.1.31.16.1.jar"
+                url = "https://cdn.discordapp.com/attachments/345364115726008332/727695753757327430/hahayesrpgstats-1.1.31.16.1.jar"
             }
             +"smolDragons" {
                 url = "https://cdn.discordapp.com/attachments/720484460197314590/727050999868686337/smol-dragons-1.0.1.jar"
@@ -201,9 +223,9 @@ root<Curse> {
             }
 
             // Direct Util Mods
-            +"carpet" {
-                url = "https://cdn.discordapp.com/attachments/690273715166117899/727654198359097367/fabric-carpet-1.16-1.4.0v200623-custom.jar"
-            }
+//            +"carpet" {
+//                url = "https://cdn.discordapp.com/attachments/690273715166117899/727654198359097367/fabric-carpet-1.16-1.4.0v200623-custom.jar"
+//            }
         }
     }
 }
