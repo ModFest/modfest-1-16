@@ -506,13 +506,13 @@
     },
     "roughly-enough-items": {
         "id": "roughly-enough-items",
-        "version": "RoughlyEnoughItems-4.6.2.jar",
+        "version": "RoughlyEnoughItems-4.6.5.jar",
         "provider": "CURSE",
         "side": "BOTH",
         "optional": "false",
         "dependencies.required": "fabric-api",
-        "filename": "RoughlyEnoughItems-4.6.2.jar",
-        "direct.url": "https://edge.forgecdn.net/files/2993/681/RoughlyEnoughItems-4.6.2.jar",
+        "filename": "RoughlyEnoughItems-4.6.5.jar",
+        "direct.url": "https://edge.forgecdn.net/files/2993/832/RoughlyEnoughItems-4.6.5.jar",
         "curse.releasetype": "Release",
         "curse.authors": "linkieisbetterthank9, shedaniel"
     },
