@@ -10,12 +10,12 @@
     },
     "astromine-fabric": {
         "id": "astromine-fabric",
-        "version": "astromine-1.0.19+fabric-1.16.1.jar",
+        "version": "astromine-1.0.21+fabric-1.16.1.jar",
         "provider": "CURSE",
         "side": "BOTH",
         "optional": "false",
-        "filename": "astromine-1.0.19+fabric-1.16.1.jar",
-        "direct.url": "https://edge.forgecdn.net/files/2993/539/astromine-1.0.19+fabric-1.16.1.jar",
+        "filename": "astromine-1.0.21+fabric-1.16.1.jar",
+        "direct.url": "https://edge.forgecdn.net/files/2993/606/astromine-1.0.21+fabric-1.16.1.jar",
         "curse.releasetype": "Release",
         "curse.authors": "bolkor_, Draylar1, halfbuilders, shedaniel, Shnupbups, SuperCoder79"
     },
@@ -205,12 +205,12 @@
     },
     "glowcase": {
         "id": "glowcase",
-        "version": "glowcase-0.0.3.jar",
+        "version": "glowcase-0.0.4.jar",
         "provider": "CURSE",
         "side": "BOTH",
         "optional": "false",
-        "filename": "glowcase-0.0.3.jar",
-        "direct.url": "https://edge.forgecdn.net/files/2989/76/glowcase-0.0.3.jar",
+        "filename": "glowcase-0.0.4.jar",
+        "direct.url": "https://edge.forgecdn.net/files/2993/620/glowcase-0.0.4.jar",
         "curse.releasetype": "Release",
         "curse.authors": "HephaestusDev"
     },
@@ -399,12 +399,12 @@
     },
     "moreshulkerboxes": {
         "id": "moreShulkerBoxes",
-        "version": "gud_modfest116_specialsauce-1.0.5",
+        "version": "gud_modfest116_specialsauce-1.0.7",
         "provider": "DIRECT",
         "side": "BOTH",
         "optional": "false",
-        "filename": "gud_modfest116_specialsauce-1.0.5.jar",
-        "direct.url": "https://cdn.discordapp.com/attachments/720484460197314590/727259569507532870/gud_modfest116_specialsauce-1.0.5.jar"
+        "filename": "gud_modfest116_specialsauce-1.0.7.jar",
+        "direct.url": "https://cdn.discordapp.com/attachments/458307292421554178/727749737217785916/gud_modfest116_specialsauce-1.0.7.jar"
     },
     "muffle": {
         "id": "muffle",
@@ -466,12 +466,12 @@
     },
     "quantum-gems": {
         "id": "quantum-gems",
-        "version": "quantum-gems-0.1.1.jar",
+        "version": "quantum-gems-0.1.2.jar",
         "provider": "CURSE",
         "side": "BOTH",
         "optional": "false",
-        "filename": "quantum-gems-0.1.1.jar",
-        "direct.url": "https://edge.forgecdn.net/files/2988/830/quantum-gems-0.1.1.jar",
+        "filename": "quantum-gems-0.1.2.jar",
+        "direct.url": "https://edge.forgecdn.net/files/2993/585/quantum-gems-0.1.2.jar",
         "curse.releasetype": "Release",
         "curse.authors": "robotmonkey1000"
     },

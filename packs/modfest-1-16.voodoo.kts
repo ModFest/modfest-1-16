@@ -74,7 +74,7 @@ root<Curse> {
 //            curse.fileID = FileID(2988048)
 //        }
         (+ProjectID(391739)) { // Astromine
-            curse.fileID = FileID(2993539)
+            curse.fileID = FileID(2993606)
         }
         (+ProjectID(391532)) { // Astrum
             curse.fileID = FileID(2988088)
@@ -92,7 +92,7 @@ root<Curse> {
             curse.fileID = FileID(2993480)
         }
         (+ProjectID(391796)) { // Glowcase
-            curse.fileID = FileID(2989076)
+            curse.fileID = FileID(2993620)
         }
         (+ProjectID(391897)) { // Heart of the Machine
             curse.fileID = FileID(2988449)
@@ -116,7 +116,7 @@ root<Curse> {
             curse.fileID = FileID(2988542)
         }
         (+ProjectID(391987)) { // Quantum Gems
-            curse.fileID = FileID(2988830)
+            curse.fileID = FileID(2993585)
         }
         (+ProjectID(390028)) { // Twine
             curse.fileID = FileID(2990466)
@@ -192,7 +192,7 @@ root<Curse> {
                 url = "https://github.com/PheonixVX/lil-tater-block/releases/download/0.0.1-1.16/lil-tater-1368-revision-1.0.0.jar"
             }
             +"moreShulkerBoxes" {
-                url = "https://cdn.discordapp.com/attachments/720484460197314590/727259569507532870/gud_modfest116_specialsauce-1.0.5.jar"
+                url = "https://cdn.discordapp.com/attachments/458307292421554178/727749737217785916/gud_modfest116_specialsauce-1.0.7.jar"
             }
             +"mycoturgy" {
                 url = "https://github.com/Boundarybreaker/Mycoturgy/releases/download/0.1.0%2B1.16.1/mycoturgy-0.1.0+1.16.1.jar"
