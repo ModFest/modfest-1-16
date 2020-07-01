@@ -10,12 +10,12 @@
     },
     "astromine-fabric": {
         "id": "astromine-fabric",
-        "version": "astromine-1.0.21+fabric-1.16.1.jar",
+        "version": "astromine-1.0.22+fabric-1.16.1.jar",
         "provider": "CURSE",
         "side": "BOTH",
         "optional": "false",
-        "filename": "astromine-1.0.21+fabric-1.16.1.jar",
-        "direct.url": "https://edge.forgecdn.net/files/2993/606/astromine-1.0.21+fabric-1.16.1.jar",
+        "filename": "astromine-1.0.22+fabric-1.16.1.jar",
+        "direct.url": "https://edge.forgecdn.net/files/2993/665/astromine-1.0.22+fabric-1.16.1.jar",
         "curse.releasetype": "Release",
         "curse.authors": "bolkor_, Draylar1, halfbuilders, shedaniel, Shnupbups, SuperCoder79"
     },

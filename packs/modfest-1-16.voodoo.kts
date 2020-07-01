@@ -74,7 +74,7 @@ root<Curse> {
 //            curse.fileID = FileID(2988048)
 //        }
         (+ProjectID(391739)) { // Astromine
-            curse.fileID = FileID(2993606)
+            curse.fileID = FileID(2993665)
         }
         (+ProjectID(391532)) { // Astrum
             curse.fileID = FileID(2988088)
