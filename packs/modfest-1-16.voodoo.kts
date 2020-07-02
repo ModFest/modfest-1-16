@@ -186,6 +186,10 @@ root<Curse> {
 //            +"adventurez" {
 //                url = "https://cdn.discordapp.com/attachments/690273715166117899/727648262143868980/adventurez-1.0.2.jar"
 //            }
+            +"astromine" {
+                url = "https://github.com/Chainmail-Studios/Astromine/releases/download/1.0.26/astromine-1.0.26+fabric-1.16.1.jar"
+                skipFingerprintCheck = true
+            }
             +"astrum" {
                 url = "https://github.com/The-Code-Monkey/ModFest/releases/download/1.0.1/astrum-1.0.0.jar"
                 skipFingerprintCheck = true
@@ -231,7 +235,7 @@ root<Curse> {
                 skipFingerprintCheck = true
             }
             +"labyrinthine" {
-                url = "https://github.com/FoundationGames/Labyrinthine/releases/download/0.1.1/labyrinthine-0.1.1.jar"
+                url = "https://github.com/FoundationGames/Labyrinthine/releases/download/0.1.2/labyrinthine-0.1.2.jar"
                 skipFingerprintCheck = true
             }
             +"lacrimis" {

@@ -11,6 +11,15 @@
         "curse.releasetype": "Release",
         "curse.authors": "Globox_Z"
     },
+    "astromine": {
+        "id": "astromine",
+        "version": "astromine-1.0.26+fabric-1.16.1",
+        "provider": "DIRECT",
+        "side": "BOTH",
+        "optional": "false",
+        "filename": "astromine-1.0.26+fabric-1.16.1.jar",
+        "direct.url": "https://github.com/Chainmail-Studios/Astromine/releases/download/1.0.26/astromine-1.0.26+fabric-1.16.1.jar"
+    },
     "astromine-fabric": {
         "id": "astromine-fabric",
         "version": "astromine-1.0.25+fabric-1.16.1.jar",
@@ -291,12 +300,12 @@
     },
     "labyrinthine": {
         "id": "labyrinthine",
-        "version": "labyrinthine-0.1.1",
+        "version": "labyrinthine-0.1.2",
         "provider": "DIRECT",
         "side": "BOTH",
         "optional": "false",
-        "filename": "labyrinthine-0.1.1.jar",
-        "direct.url": "https://github.com/FoundationGames/Labyrinthine/releases/download/0.1.1/labyrinthine-0.1.1.jar"
+        "filename": "labyrinthine-0.1.2.jar",
+        "direct.url": "https://github.com/FoundationGames/Labyrinthine/releases/download/0.1.2/labyrinthine-0.1.2.jar"
     },
     "lacrimis": {
         "id": "lacrimis",
