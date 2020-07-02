@@ -194,12 +194,12 @@
     },
     "fasterthanc": {
         "id": "fasterThanC",
-        "version": "fasterthanc-1.1",
+        "version": "fasterthanc-1.2",
         "provider": "DIRECT",
         "side": "BOTH",
         "optional": "false",
-        "filename": "fasterthanc-1.1.jar",
-        "direct.url": "https://github.com/Snakefangox/FasterThanC/releases/download/modfest/fasterthanc-1.1.jar"
+        "filename": "fasterthanc-1.2.jar",
+        "direct.url": "https://github.com/Snakefangox/FasterThanC/releases/download/modfest/fasterthanc-1.2.jar"
     },
     "flycreeperfly": {
         "id": "flyCreeperFly",

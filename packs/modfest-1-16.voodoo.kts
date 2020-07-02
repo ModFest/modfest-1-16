@@ -174,7 +174,7 @@ root<Curse> {
                 url = "https://cdn.discordapp.com/attachments/720484460197314590/727054419832864768/cursed-1.0.0-SNAPSHOT-without-the-debugging.jar"
             }
             +"fasterThanC" {
-                url = "https://github.com/Snakefangox/FasterThanC/releases/download/modfest/fasterthanc-1.1.jar"
+                url = "https://github.com/Snakefangox/FasterThanC/releases/download/modfest/fasterthanc-1.2.jar"
             }
             +"flyCreeperFly" {
                 url = "https://github.com/Scotsguy/fly-creeper-fly/releases/download/v1.0.0%2B1.16.1/fly-creeper-fly-1.0.0+1.16.1.jar"
