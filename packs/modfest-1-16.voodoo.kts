@@ -91,10 +91,10 @@ root<Curse> {
             curse.fileID = FileID(2994466)
             curse.skipFingerprintCheck = true
         }
-        (+ProjectID(391739)) { // Astromine
-            curse.fileID = FileID(2994662)
-            curse.skipFingerprintCheck = true
-        }
+//        (+ProjectID(391739)) { // Astromine
+//            curse.fileID = FileID(2994662)
+//            curse.skipFingerprintCheck = true
+//        }
         (+ProjectID(391532)) { // Astrum
             curse.fileID = FileID(2988088)
             curse.skipFingerprintCheck = true
