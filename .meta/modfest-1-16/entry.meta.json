@@ -302,7 +302,7 @@
         "side": "BOTH",
         "optional": "false",
         "filename": "lacrimis-1.0.7.jar",
-        "direct.url": "https://ci.dblsaiko.net/job/lacrimis/lastSuccessfulBuild/artifact/build/libs/lacrimis-1.0.7.jar"
+        "direct.url": "https://ci.dblsaiko.net/job/lacrimis/10/artifact/build/libs/lacrimis-1.0.7.jar"
     },
     "landmark": {
         "id": "landmark",
