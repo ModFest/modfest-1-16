@@ -54,6 +54,9 @@ root<Curse> {
         +Mod.cottonResources {
             curse.fileID = FileID(2993390)
         }
+        +Mod.hwyla {
+            curse.fileID = FileID(2989943)
+        }
 
         // Utils
         +Mod.worldedit {
@@ -74,7 +77,7 @@ root<Curse> {
 //            curse.fileID = FileID(2988048)
 //        }
         (+ProjectID(391739)) { // Astromine
-            curse.fileID = FileID(2993748)
+            curse.fileID = FileID(2994299)
         }
         (+ProjectID(391532)) { // Astrum
             curse.fileID = FileID(2988088)
@@ -104,7 +107,7 @@ root<Curse> {
             curse.fileID = FileID(2990840)
         }
         (+ProjectID(391186)) { // Landmark
-            curse.fileID = FileID(2992734)
+            curse.fileID = FileID(2994370)
         }
         (+ProjectID(391812)) { // Mobs Attempt Parkour
             curse.fileID = FileID(2990365)
@@ -171,13 +174,13 @@ root<Curse> {
                 url = "https://cdn.discordapp.com/attachments/720484460197314590/727054419832864768/cursed-1.0.0-SNAPSHOT-without-the-debugging.jar"
             }
             +"fasterThanC" {
-                url = "https://github.com/Snakefangox/FasterThanC/releases/download/modfest/fasterthanc-1.0.jar"
+                url = "https://github.com/Snakefangox/FasterThanC/releases/download/modfest/fasterthanc-1.1.jar"
             }
             +"flyCreeperFly" {
                 url = "https://github.com/Scotsguy/fly-creeper-fly/releases/download/v1.0.0%2B1.16.1/fly-creeper-fly-1.0.0+1.16.1.jar"
             }
             +"haema" {
-                url = "https://github.com/williambl/haema/releases/download/v1.1.0/haema-1.1.0.jar"
+                url = "https://github.com/williambl/haema/releases/download/v1.1.1/haema-1.1.1.jar"
             }
             +"homestuckLoadingScreen" {
                 url = "https://immibis.com/mcmodjam/homestuck_loading_screen-1.0.0.jar"
@@ -192,7 +195,7 @@ root<Curse> {
                 url = "https://github.com/PheonixVX/lil-tater-block/releases/download/0.0.1-1.16/lil-tater-1368-revision-1.0.0.jar"
             }
             +"moreShulkerBoxes" {
-                url = "https://cdn.discordapp.com/attachments/458307292421554178/727749737217785916/gud_modfest116_specialsauce-1.0.7.jar"
+                url = "https://cdn.discordapp.com/attachments/458307292421554178/728039942831472711/gud_modfest116_specialsauce-1.0.8.jar"
             }
             +"mycoturgy" {
                 url = "https://github.com/Boundarybreaker/Mycoturgy/releases/download/0.1.1%2B1.16.1/mycoturgy-0.1.1+1.16.1.jar"
