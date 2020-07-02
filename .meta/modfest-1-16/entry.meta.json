@@ -439,12 +439,12 @@
     },
     "mycoturgy": {
         "id": "mycoturgy",
-        "version": "mycoturgy-0.1.1+1.16.1",
+        "version": "mycoturgy-0.1.2+1.16.1",
         "provider": "DIRECT",
         "side": "BOTH",
         "optional": "false",
-        "filename": "mycoturgy-0.1.1+1.16.1.jar",
-        "direct.url": "https://github.com/Boundarybreaker/Mycoturgy/releases/download/0.1.1%2B1.16.1/mycoturgy-0.1.1+1.16.1.jar"
+        "filename": "mycoturgy-0.1.2+1.16.1.jar",
+        "direct.url": "https://github.com/Boundarybreaker/Mycoturgy/releases/download/1.0.2%2B1.16.1/mycoturgy-0.1.2+1.16.1.jar"
     },
     "patchouli": {
         "id": "patchouli",

@@ -198,7 +198,7 @@ root<Curse> {
                 url = "https://cdn.discordapp.com/attachments/458307292421554178/728039942831472711/gud_modfest116_specialsauce-1.0.8.jar"
             }
             +"mycoturgy" {
-                url = "https://github.com/Boundarybreaker/Mycoturgy/releases/download/0.1.1%2B1.16.1/mycoturgy-0.1.1+1.16.1.jar"
+                url = "https://github.com/Boundarybreaker/Mycoturgy/releases/download/1.0.2%2B1.16.1/mycoturgy-0.1.2+1.16.1.jar"
             }
             +"polyDungeons" {
                 url = "https://github.com/Earthcomputer/PolyDungeons/releases/download/v1.0/polydungeons-1.0.jar"
