@@ -73,11 +73,11 @@ root<Curse> {
         }
 
         // Curse ModFest Mods
-//        (+ProjectID(390991)) { // AdventureZ
-//            curse.fileID = FileID(2988048)
-//        }
+        (+ProjectID(390991)) { // AdventureZ
+            curse.fileID = FileID(2994466)
+        }
         (+ProjectID(391739)) { // Astromine
-            curse.fileID = FileID(2994299)
+            curse.fileID = FileID(2994662)
         }
         (+ProjectID(391532)) { // Astrum
             curse.fileID = FileID(2988088)
@@ -95,7 +95,7 @@ root<Curse> {
             curse.fileID = FileID(2993480)
         }
         (+ProjectID(391796)) { // Glowcase
-            curse.fileID = FileID(2993641)
+            curse.fileID = FileID(2994531)
         }
         (+ProjectID(391897)) { // Heart of the Machine
             curse.fileID = FileID(2993851)
@@ -149,9 +149,9 @@ root<Curse> {
                 url = "https://cdn.discordapp.com/attachments/690273715166117899/727711990608560158/Patchouli-1.16-36.190.jar"
             }
             // Direct ModFest Mods
-            +"adventurez" {
-                url = "https://cdn.discordapp.com/attachments/690273715166117899/727648262143868980/adventurez-1.0.2.jar"
-            }
+//            +"adventurez" {
+//                url = "https://cdn.discordapp.com/attachments/690273715166117899/727648262143868980/adventurez-1.0.2.jar"
+//            }
             +"astrum" {
                 url = "https://github.com/The-Code-Monkey/ModFest/releases/download/1.0.1/astrum-1.0.0.jar"
             }
@@ -183,13 +183,13 @@ root<Curse> {
                 url = "https://github.com/williambl/haema/releases/download/v1.1.1/haema-1.1.1.jar"
             }
             +"homestuckLoadingScreen" {
-                url = "https://immibis.com/mcmodjam/homestuck_loading_screen-1.0.0.jar"
+                url = "https://immibis.com/mcmodjam/homestuck_loading_screen-1.0.1.jar"
             }
             +"labyrinthine" {
                 url = "https://github.com/FoundationGames/Labyrinthine/releases/download/0.1.1/labyrinthine-0.1.1.jar"
             }
             +"lacrimis" {
-                url = "https://ci.dblsaiko.net/job/lacrimis/10/artifact/build/libs/lacrimis-1.0.7.jar"
+                url = "https://ci.dblsaiko.net/job/lacrimis/13/artifact/build/libs/lacrimis-1.1.0.jar"
             }
             +"lilTaterBlock" {
                 url = "https://github.com/PheonixVX/lil-tater-block/releases/download/0.0.1-1.16/lil-tater-1368-revision-1.0.0.jar"
@@ -219,7 +219,7 @@ root<Curse> {
                 url = "https://github.com/TIVJ-dev/SunIRL/releases/download/1.1.1/sunirl-1.1.1.jar"
             }
             +"superworld" {
-                url = "https://cdn.discordapp.com/attachments/720484460197314590/726354727545339945/superworld-1.0.0-pre.6.jar"
+                url = "https://cdn.discordapp.com/attachments/720485528402657384/728339715631218708/superworld-1.0.0-pre.8.jar"
             }
             +"theManhattanProject" {
                 url = "https://cdn.discordapp.com/attachments/690273715166117899/727634754035253292/manhattan_project-1.0.2.jar"

@@ -1,4 +1,12 @@
 {
-    "type": "direct",
-    "url": "https://cdn.discordapp.com/attachments/690273715166117899/727648262143868980/adventurez-1.0.2.jar"
+    "type": "curse",
+    "common": {
+        "dependencies": {
+            "REQUIRED": [
+                "fabric-api"
+            ]
+        }
+    },
+    "projectID": 390991,
+    "fileID": 2994466
 }

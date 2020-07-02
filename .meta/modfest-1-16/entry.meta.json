@@ -1,21 +1,24 @@
 {
     "adventurez": {
         "id": "adventurez",
-        "version": "adventurez-1.0.2",
-        "provider": "DIRECT",
-        "side": "BOTH",
-        "optional": "false",
-        "filename": "adventurez-1.0.2.jar",
-        "direct.url": "https://cdn.discordapp.com/attachments/690273715166117899/727648262143868980/adventurez-1.0.2.jar"
-    },
-    "astromine-fabric": {
-        "id": "astromine-fabric",
-        "version": "astromine-1.0.24+fabric-1.16.1.jar",
+        "version": "adventurez-1.0.2.jar",
         "provider": "CURSE",
         "side": "BOTH",
         "optional": "false",
-        "filename": "astromine-1.0.24+fabric-1.16.1.jar",
-        "direct.url": "https://edge.forgecdn.net/files/2994/299/astromine-1.0.24+fabric-1.16.1.jar",
+        "dependencies.required": "fabric-api",
+        "filename": "adventurez-1.0.2.jar",
+        "direct.url": "https://edge.forgecdn.net/files/2994/466/adventurez-1.0.2.jar",
+        "curse.releasetype": "Release",
+        "curse.authors": "Globox_Z"
+    },
+    "astromine-fabric": {
+        "id": "astromine-fabric",
+        "version": "astromine-1.0.25+fabric-1.16.1.jar",
+        "provider": "CURSE",
+        "side": "BOTH",
+        "optional": "false",
+        "filename": "astromine-1.0.25+fabric-1.16.1.jar",
+        "direct.url": "https://edge.forgecdn.net/files/2994/662/astromine-1.0.25+fabric-1.16.1.jar",
         "curse.releasetype": "Release",
         "curse.authors": "bolkor_, Draylar1, halfbuilders, shedaniel, Shnupbups, SuperCoder79"
     },
@@ -212,12 +215,12 @@
     },
     "glowcase": {
         "id": "glowcase",
-        "version": "glowcase-0.0.4.jar",
+        "version": "glowcase-0.0.5.jar",
         "provider": "CURSE",
         "side": "BOTH",
         "optional": "false",
-        "filename": "glowcase-0.0.4.jar",
-        "direct.url": "https://edge.forgecdn.net/files/2993/641/glowcase-0.0.4.jar",
+        "filename": "glowcase-0.0.5.jar",
+        "direct.url": "https://edge.forgecdn.net/files/2994/531/glowcase-0.0.5.jar",
         "curse.releasetype": "Release",
         "curse.authors": "HephaestusDev"
     },
@@ -256,12 +259,12 @@
     },
     "homestuckloadingscreen": {
         "id": "homestuckLoadingScreen",
-        "version": "homestuck_loading_screen-1.0.0",
+        "version": "homestuck_loading_screen-1.0.1",
         "provider": "DIRECT",
         "side": "BOTH",
         "optional": "false",
-        "filename": "homestuck_loading_screen-1.0.0.jar",
-        "direct.url": "https://immibis.com/mcmodjam/homestuck_loading_screen-1.0.0.jar"
+        "filename": "homestuck_loading_screen-1.0.1.jar",
+        "direct.url": "https://immibis.com/mcmodjam/homestuck_loading_screen-1.0.1.jar"
     },
     "hwyla": {
         "id": "hwyla",
@@ -297,12 +300,12 @@
     },
     "lacrimis": {
         "id": "lacrimis",
-        "version": "lacrimis-1.0.7",
+        "version": "lacrimis-1.1.0",
         "provider": "DIRECT",
         "side": "BOTH",
         "optional": "false",
-        "filename": "lacrimis-1.0.7.jar",
-        "direct.url": "https://ci.dblsaiko.net/job/lacrimis/10/artifact/build/libs/lacrimis-1.0.7.jar"
+        "filename": "lacrimis-1.1.0.jar",
+        "direct.url": "https://ci.dblsaiko.net/job/lacrimis/13/artifact/build/libs/lacrimis-1.1.0.jar"
     },
     "landmark": {
         "id": "landmark",
@@ -557,12 +560,12 @@
     },
     "superworld": {
         "id": "superworld",
-        "version": "superworld-1.0.0-pre.6",
+        "version": "superworld-1.0.0-pre.8",
         "provider": "DIRECT",
         "side": "BOTH",
         "optional": "false",
-        "filename": "superworld-1.0.0-pre.6.jar",
-        "direct.url": "https://cdn.discordapp.com/attachments/720484460197314590/726354727545339945/superworld-1.0.0-pre.6.jar"
+        "filename": "superworld-1.0.0-pre.8.jar",
+        "direct.url": "https://cdn.discordapp.com/attachments/720485528402657384/728339715631218708/superworld-1.0.0-pre.8.jar"
     },
     "themanhattanproject": {
         "id": "theManhattanProject",
