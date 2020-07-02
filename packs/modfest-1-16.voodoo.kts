@@ -23,109 +23,140 @@ root<Curse> {
         // Deps
         +Mod.fabricApi {
             curse.fileID = FileID(2988824)
+            curse.skipFingerprintCheck = true
         }
         +Mod.modmenu {
             curse.fileID = FileID(2988292)
+            curse.skipFingerprintCheck = true
         }
         +Mod.fabricLanguageKotlin {
             curse.fileID = FileID(2989695)
+            curse.skipFingerprintCheck = true
         }
         +Mod.fabricLanguageKotlin {
             curse.fileID = FileID(2989695)
+            curse.skipFingerprintCheck = true
         }
         +Mod.roughlyEnoughItems {
             curse.fileID = FileID(2993832)
+            curse.skipFingerprintCheck = true
         }
 //        +Mod.canvasRenderer {
 //            curse.fileID = FileID(2989428)
 //        }
         +Mod.cardinalComponents {
             curse.fileID = FileID(2990259)
+            curse.skipFingerprintCheck = true
         }
         +Mod.libblockattributes {
             curse.fileID = FileID(2981668)
+            curse.skipFingerprintCheck = true
         }
         +Mod.malilib {
             curse.fileID = FileID(2993139)
+            curse.skipFingerprintCheck = true
         }
 //        (+ProjectID(306770)) { // Patchouli
 //            curse.fileID = FileID(2986825)
 //        }
         +Mod.cottonResources {
             curse.fileID = FileID(2993390)
+            curse.skipFingerprintCheck = true
         }
         +Mod.hwyla {
             curse.fileID = FileID(2989943)
+            curse.skipFingerprintCheck = true
         }
 
         // Utils
         +Mod.worldedit {
             curse.fileID = FileID(2988278)
+            curse.skipFingerprintCheck = true
         }
         +Mod.makkit {
             curse.fileID = FileID(2986981)
+            curse.skipFingerprintCheck = true
         }
         +Mod.lithium {
             curse.fileID = FileID(2987754)
+            curse.skipFingerprintCheck = true
         }
         +Mod.phosphor {
             curse.fileID = FileID(2987621)
+            curse.skipFingerprintCheck = true
         }
 
         // Curse ModFest Mods
         (+ProjectID(390991)) { // AdventureZ
             curse.fileID = FileID(2994466)
+            curse.skipFingerprintCheck = true
         }
         (+ProjectID(391739)) { // Astromine
             curse.fileID = FileID(2994662)
+            curse.skipFingerprintCheck = true
         }
         (+ProjectID(391532)) { // Astrum
             curse.fileID = FileID(2988088)
+            curse.skipFingerprintCheck = true
         }
         (+ProjectID(392045)) { // Biospheres
             curse.fileID = FileID(2990133)
+            curse.skipFingerprintCheck = true
         }
 //        +Mod.crusade {
 //            curse.fileID = FileID(2993919)
 //        }
         +Mod.deliciousDishes {
             curse.fileID = FileID(2991883)
+            curse.skipFingerprintCheck = true
         }
         (+ProjectID(392015)) { // Eldritch Mobs
             curse.fileID = FileID(2993480)
+            curse.skipFingerprintCheck = true
         }
         (+ProjectID(391796)) { // Glowcase
             curse.fileID = FileID(2994531)
+            curse.skipFingerprintCheck = true
         }
         (+ProjectID(391897)) { // Heart of the Machine
             curse.fileID = FileID(2993851)
+            curse.skipFingerprintCheck = true
         }
         (+ProjectID(390001)) { // Herbocraft
             curse.fileID = FileID(2990657)
+            curse.skipFingerprintCheck = true
         }
         (+ProjectID(391390)) { // Identity
             curse.fileID = FileID(2990840)
+            curse.skipFingerprintCheck = true
         }
         (+ProjectID(391186)) { // Landmark
             curse.fileID = FileID(2994370)
+            curse.skipFingerprintCheck = true
         }
         (+ProjectID(391812)) { // Mobs Attempt Parkour
             curse.fileID = FileID(2990365)
+            curse.skipFingerprintCheck = true
         }
         (+ProjectID(391583)) { // ModUpdater
             curse.fileID = FileID(2992060)
+            curse.skipFingerprintCheck = true
         }
         (+ProjectID(391937)) { // Muffle
             curse.fileID = FileID(2988542)
+            curse.skipFingerprintCheck = true
         }
         (+ProjectID(391987)) { // Quantum Gems
             curse.fileID = FileID(2993585)
+            curse.skipFingerprintCheck = true
         }
         (+ProjectID(390028)) { // Twine
             curse.fileID = FileID(2990466)
+            curse.skipFingerprintCheck = true
         }
         (+ProjectID(391737)) { // Woods and Mires
             curse.fileID = FileID(2987851)
+            curse.skipFingerprintCheck = true
         }
 
         group {
@@ -135,10 +166,12 @@ root<Curse> {
         }.list {
             +Mod.retino {
                 curse.fileID = FileID(2913792)
+                curse.skipFingerprintCheck = true
                 description = "Fixes issues with retina display on Mac. Don't use otherwise."
             }
             +Mod.minihud {
                 curse.fileID = FileID(2993429)
+                curse.skipFingerprintCheck = true
                 description = "Displays server TPS and MSPT. Helpful for debugging."
             }
         }
@@ -147,6 +180,7 @@ root<Curse> {
             // Deps
             +"patchouli" {
                 url = "https://cdn.discordapp.com/attachments/690273715166117899/727711990608560158/Patchouli-1.16-36.190.jar"
+                skipFingerprintCheck = true
             }
             // Direct ModFest Mods
 //            +"adventurez" {
@@ -154,78 +188,103 @@ root<Curse> {
 //            }
             +"astrum" {
                 url = "https://github.com/The-Code-Monkey/ModFest/releases/download/1.0.1/astrum-1.0.0.jar"
+                skipFingerprintCheck = true
             }
             +"attackOfTheBikeshed" {
                 url = "https://github.com/comp500/attack-of-the-bikeshed/releases/download/1.0.1/bikeshed-1.0.1.jar"
+                skipFingerprintCheck = true
             }
             +"blockwake" {
                 url = "https://github.com/JSJBDEV/PiratesAndPlunderers/releases/download/0.6.1/Blockwake-1.16-0.6.1.jar"
+                skipFingerprintCheck = true
             }
             +"boneCheese" {
                 url = "https://cdn.discordapp.com/attachments/720484460197314590/727051566380744735/bonecheese-0.9.9-pre.9.9.9.9.9.9.but.without.the.include.but.reuploaded.because.prospector.deleted.t.jar"
+                skipFingerprintCheck = true
             }
             +"cargoRockets" {
                 url = "https://github.com/JoeZwet/CargoRockets/releases/download/0.1.0-alpha%2B1.16.1/CargoRockets-0.1.0-alpha+1.16.1.jar"
+                skipFingerprintCheck = true
             }
             +"concraftwaylifeofgamemine" {
                 url = "https://github.com/TheEpicBlock/concraftwaylifeofgamemine/releases/download/v1.1.0/concraftwaylifeofgamemine-1.1.0+1.16.1.jar"
+                skipFingerprintCheck = true
             }
             +"cursed" {
                 url = "https://cdn.discordapp.com/attachments/720484460197314590/727054419832864768/cursed-1.0.0-SNAPSHOT-without-the-debugging.jar"
+                skipFingerprintCheck = true
             }
             +"fasterThanC" {
                 url = "https://github.com/Snakefangox/FasterThanC/releases/download/modfest/fasterthanc-1.2.jar"
+                skipFingerprintCheck = true
             }
             +"flyCreeperFly" {
                 url = "https://github.com/Scotsguy/fly-creeper-fly/releases/download/v1.0.0%2B1.16.1/fly-creeper-fly-1.0.0+1.16.1.jar"
+                skipFingerprintCheck = true
             }
             +"haema" {
                 url = "https://github.com/williambl/haema/releases/download/v1.1.1/haema-1.1.1.jar"
+                skipFingerprintCheck = true
             }
             +"homestuckLoadingScreen" {
                 url = "https://immibis.com/mcmodjam/homestuck_loading_screen-1.0.1.jar"
+                skipFingerprintCheck = true
             }
             +"labyrinthine" {
                 url = "https://github.com/FoundationGames/Labyrinthine/releases/download/0.1.1/labyrinthine-0.1.1.jar"
+                skipFingerprintCheck = true
             }
             +"lacrimis" {
                 url = "https://ci.dblsaiko.net/job/lacrimis/13/artifact/build/libs/lacrimis-1.1.0.jar"
+                skipFingerprintCheck = true
             }
             +"lilTaterBlock" {
                 url = "https://github.com/PheonixVX/lil-tater-block/releases/download/0.0.1-1.16/lil-tater-1368-revision-1.0.0.jar"
+                skipFingerprintCheck = true
             }
             +"moreShulkerBoxes" {
                 url = "https://cdn.discordapp.com/attachments/458307292421554178/728039942831472711/gud_modfest116_specialsauce-1.0.8.jar"
+                skipFingerprintCheck = true
             }
             +"mycoturgy" {
                 url = "https://github.com/Boundarybreaker/Mycoturgy/releases/download/1.0.2%2B1.16.1/mycoturgy-0.1.2+1.16.1.jar"
+                skipFingerprintCheck = true
             }
             +"polyDungeons" {
                 url = "https://github.com/Earthcomputer/PolyDungeons/releases/download/v1.0/polydungeons-1.0.jar"
+                skipFingerprintCheck = true
             }
             +"potionOfGetHisAss" {
                 url = "https://github.com/Scotsguy/potion-of-get-his-ass/releases/download/v1.1.2%2B1.16.1/potion-of-get-his-ass-1.1.2+1.16.1.jar"
+                skipFingerprintCheck = true
             }
             +"rainbow" {
                 url = "https://ci.hexeption.dev/job/Rainbow/job/master/15/artifact/build/libs/rainbow-1.16.1+1.0.1+build.15.jar"
+                skipFingerprintCheck = true
             }
             +"rpgstats" {
                 url = "https://cdn.discordapp.com/attachments/345364115726008332/727695753757327430/hahayesrpgstats-1.1.31.16.1.jar"
+                skipFingerprintCheck = true
             }
             +"smolDragons" {
                 url = "https://dblsaiko.net/pub/modfest/mods/smol-dragons-1.0.1.jar"
+                skipFingerprintCheck = true
             }
             +"sunirl" {
                 url = "https://github.com/TIVJ-dev/SunIRL/releases/download/1.1.1/sunirl-1.1.1.jar"
+                skipFingerprintCheck = true
             }
             +"superworld" {
                 url = "https://cdn.discordapp.com/attachments/720485528402657384/728339715631218708/superworld-1.0.0-pre.8.jar"
+                skipFingerprintCheck = true
             }
             +"theManhattanProject" {
                 url = "https://cdn.discordapp.com/attachments/690273715166117899/727634754035253292/manhattan_project-1.0.2.jar"
+                skipFingerprintCheck = true
             }
             +"crusade" {
                 url = "https://cdn.discordapp.com/attachments/690273715166117899/727926651048165376/crusade-mod-1.1.11.16.1.jar"
+                skipFingerprintCheck = true
             }
 
             // Direct Util Mods
@@ -234,6 +293,7 @@ root<Curse> {
 //            }
             +"bruhMoment" {
                 url = "https://cdn.discordapp.com/attachments/690273715166117899/727807352182407208/bruh-moment-0.2.0.jar"
+                skipFingerprintCheck = true
             }
         }
     }
