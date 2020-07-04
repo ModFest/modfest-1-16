@@ -88,15 +88,15 @@ root<Curse> {
 
         // Curse ModFest Mods
         (+ProjectID(390991)) { // AdventureZ
-            curse.fileID = FileID(2994466)
+            curse.fileID = FileID(2995966)
             curse.skipFingerprintCheck = true
         }
 //        (+ProjectID(391739)) { // Astromine
 //            curse.fileID = FileID(2994662)
 //            curse.skipFingerprintCheck = true
 //        }
-        (+ProjectID(391532)) { // Astrum
-            curse.fileID = FileID(2988088)
+        (+ProjectID(391532)) { // Biomechanics
+            curse.fileID = FileID(2995721)
             curse.skipFingerprintCheck = true
         }
         (+ProjectID(392045)) { // Biospheres
@@ -115,7 +115,7 @@ root<Curse> {
             curse.skipFingerprintCheck = true
         }
         (+ProjectID(391796)) { // Glowcase
-            curse.fileID = FileID(2994531)
+            curse.fileID = FileID(2995703)
             curse.skipFingerprintCheck = true
         }
         (+ProjectID(391897)) { // Heart of the Machine
@@ -187,7 +187,7 @@ root<Curse> {
 //                url = "https://cdn.discordapp.com/attachments/690273715166117899/727648262143868980/adventurez-1.0.2.jar"
 //            }
             +"astromine" {
-                url = "https://github.com/Chainmail-Studios/Astromine/releases/download/1.0.26/astromine-1.0.26+fabric-1.16.1.jar"
+                url = "https://github.com/Chainmail-Studios/Astromine/releases/download/1.0.29/astromine-1.0.29+fabric-1.16.1.jar"
                 skipFingerprintCheck = true
             }
             +"astrum" {
@@ -239,7 +239,7 @@ root<Curse> {
                 skipFingerprintCheck = true
             }
             +"lacrimis" {
-                url = "https://ci.dblsaiko.net/job/lacrimis/13/artifact/build/libs/lacrimis-1.1.0.jar"
+                url = "https://ci.dblsaiko.net/job/lacrimis/16/artifact/build/libs/lacrimis-1.1.2.jar"
                 skipFingerprintCheck = true
             }
             +"lilTaterBlock" {
