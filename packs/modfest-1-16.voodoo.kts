@@ -111,11 +111,11 @@ root<Curse> {
             curse.skipFingerprintCheck = true
         }
         (+ProjectID(392015)) { // Eldritch Mobs
-            curse.fileID = FileID(2993480)
+            curse.fileID = FileID(2996577)
             curse.skipFingerprintCheck = true
         }
         (+ProjectID(391796)) { // Glowcase
-            curse.fileID = FileID(2995703)
+            curse.fileID = FileID(2996545)
             curse.skipFingerprintCheck = true
         }
         (+ProjectID(391897)) { // Heart of the Machine
@@ -219,7 +219,7 @@ root<Curse> {
                 skipFingerprintCheck = true
             }
             +"fasterThanC" {
-                url = "https://github.com/Snakefangox/FasterThanC/releases/download/modfest/fasterthanc-1.2.jar"
+                url = "https://github.com/Snakefangox/FasterThanC/releases/download/modfest/fasterthanc-1.4.jar"
                 skipFingerprintCheck = true
             }
             +"flyCreeperFly" {
@@ -231,7 +231,7 @@ root<Curse> {
                 skipFingerprintCheck = true
             }
             +"homestuckLoadingScreen" {
-                url = "https://immibis.com/mcmodjam/homestuck_loading_screen-1.0.1.jar"
+                url = "https://immibis.com/mcmodjam/homestuck_loading_screen-1.0.2.jar"
                 skipFingerprintCheck = true
             }
             +"labyrinthine" {
@@ -255,7 +255,7 @@ root<Curse> {
                 skipFingerprintCheck = true
             }
             +"polyDungeons" {
-                url = "https://github.com/Earthcomputer/PolyDungeons/releases/download/v1.0/polydungeons-1.0.jar"
+                url = "https://github.com/Earthcomputer/PolyDungeons/releases/download/v1.0.2/polydungeons-1.0.2.jar"
                 skipFingerprintCheck = true
             }
             +"potionOfGetHisAss" {
@@ -283,7 +283,7 @@ root<Curse> {
                 skipFingerprintCheck = true
             }
             +"theManhattanProject" {
-                url = "https://cdn.discordapp.com/attachments/690273715166117899/727634754035253292/manhattan_project-1.0.2.jar"
+                url = "https://github.com/valoeghese/TheManhattanProject/releases/download/1.0.3/manhattan_project-1.0.3.jar"
                 skipFingerprintCheck = true
             }
             +"crusade" {

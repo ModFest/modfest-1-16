@@ -161,13 +161,13 @@
     },
     "eldritch-mobs": {
         "id": "eldritch-mobs",
-        "version": "eldritch-mobs-1.1.0.jar",
+        "version": "eldritch-mobs-1.2.4.jar",
         "provider": "CURSE",
         "side": "BOTH",
         "optional": "false",
         "dependencies.required": "cardinal-components",
-        "filename": "eldritch-mobs-1.1.0.jar",
-        "direct.url": "https://edge.forgecdn.net/files/2993/480/eldritch-mobs-1.1.0.jar",
+        "filename": "eldritch-mobs-1.2.4.jar",
+        "direct.url": "https://edge.forgecdn.net/files/2996/577/eldritch-mobs-1.2.4.jar",
         "curse.releasetype": "Release",
         "curse.authors": "cyborg_pigeon"
     },
@@ -195,12 +195,12 @@
     },
     "fasterthanc": {
         "id": "fasterThanC",
-        "version": "fasterthanc-1.2",
+        "version": "fasterthanc-1.4",
         "provider": "DIRECT",
         "side": "BOTH",
         "optional": "false",
-        "filename": "fasterthanc-1.2.jar",
-        "direct.url": "https://github.com/Snakefangox/FasterThanC/releases/download/modfest/fasterthanc-1.2.jar"
+        "filename": "fasterthanc-1.4.jar",
+        "direct.url": "https://github.com/Snakefangox/FasterThanC/releases/download/modfest/fasterthanc-1.4.jar"
     },
     "flycreeperfly": {
         "id": "flyCreeperFly",
@@ -213,12 +213,12 @@
     },
     "glowcase": {
         "id": "glowcase",
-        "version": "glowcase-0.0.6.jar",
+        "version": "glowcase-0.0.7.jar",
         "provider": "CURSE",
         "side": "BOTH",
         "optional": "false",
-        "filename": "glowcase-0.0.6.jar",
-        "direct.url": "https://edge.forgecdn.net/files/2995/703/glowcase-0.0.6.jar",
+        "filename": "glowcase-0.0.7.jar",
+        "direct.url": "https://edge.forgecdn.net/files/2996/545/glowcase-0.0.7.jar",
         "curse.releasetype": "Release",
         "curse.authors": "HephaestusDev"
     },
@@ -257,12 +257,12 @@
     },
     "homestuckloadingscreen": {
         "id": "homestuckLoadingScreen",
-        "version": "homestuck_loading_screen-1.0.1",
+        "version": "homestuck_loading_screen-1.0.2",
         "provider": "DIRECT",
         "side": "BOTH",
         "optional": "false",
-        "filename": "homestuck_loading_screen-1.0.1.jar",
-        "direct.url": "https://immibis.com/mcmodjam/homestuck_loading_screen-1.0.1.jar"
+        "filename": "homestuck_loading_screen-1.0.2.jar",
+        "direct.url": "https://immibis.com/mcmodjam/homestuck_loading_screen-1.0.2.jar"
     },
     "hwyla": {
         "id": "hwyla",
@@ -345,7 +345,7 @@
         "optional": "false",
         "filename": "lithium-fabric-mc1.16.1-0.5.0-rc1.jar",
         "direct.url": "https://edge.forgecdn.net/files/2987/754/lithium-fabric-mc1.16.1-0.5.0-rc1.jar",
-        "curse.releasetype": "Beta",
+        "curse.releasetype": "Release",
         "curse.authors": "jellysquid_"
     },
     "makkit": {
@@ -469,12 +469,12 @@
     },
     "polydungeons": {
         "id": "polyDungeons",
-        "version": "polydungeons-1.0",
+        "version": "polydungeons-1.0.2",
         "provider": "DIRECT",
         "side": "BOTH",
         "optional": "false",
-        "filename": "polydungeons-1.0.jar",
-        "direct.url": "https://github.com/Earthcomputer/PolyDungeons/releases/download/v1.0/polydungeons-1.0.jar"
+        "filename": "polydungeons-1.0.2.jar",
+        "direct.url": "https://github.com/Earthcomputer/PolyDungeons/releases/download/v1.0.2/polydungeons-1.0.2.jar"
     },
     "potionofgethisass": {
         "id": "potionOfGetHisAss",
@@ -567,12 +567,12 @@
     },
     "themanhattanproject": {
         "id": "theManhattanProject",
-        "version": "manhattan_project-1.0.2",
+        "version": "manhattan_project-1.0.3",
         "provider": "DIRECT",
         "side": "BOTH",
         "optional": "false",
-        "filename": "manhattan_project-1.0.2.jar",
-        "direct.url": "https://cdn.discordapp.com/attachments/690273715166117899/727634754035253292/manhattan_project-1.0.2.jar"
+        "filename": "manhattan_project-1.0.3.jar",
+        "direct.url": "https://github.com/valoeghese/TheManhattanProject/releases/download/1.0.3/manhattan_project-1.0.3.jar"
     },
     "twine": {
         "id": "twine",
