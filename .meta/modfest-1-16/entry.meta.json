@@ -13,12 +13,12 @@
     },
     "astromine": {
         "id": "astromine",
-        "version": "astromine-1.0.29+fabric-1.16.1",
+        "version": "astromine-1.0.30+fabric-1.16.1",
         "provider": "DIRECT",
         "side": "BOTH",
         "optional": "false",
-        "filename": "astromine-1.0.29+fabric-1.16.1.jar",
-        "direct.url": "https://github.com/Chainmail-Studios/Astromine/releases/download/1.0.29/astromine-1.0.29+fabric-1.16.1.jar"
+        "filename": "astromine-1.0.30+fabric-1.16.1.jar",
+        "direct.url": "https://github.com/Chainmail-Studios/Astromine/releases/download/1.0.30/astromine-1.0.30+fabric-1.16.1.jar"
     },
     "astrum": {
         "id": "astrum",
@@ -195,12 +195,12 @@
     },
     "fasterthanc": {
         "id": "fasterThanC",
-        "version": "fasterthanc-1.4",
+        "version": "fasterthanc-1.5",
         "provider": "DIRECT",
         "side": "BOTH",
         "optional": "false",
-        "filename": "fasterthanc-1.4.jar",
-        "direct.url": "https://github.com/Snakefangox/FasterThanC/releases/download/modfest/fasterthanc-1.4.jar"
+        "filename": "fasterthanc-1.5.jar",
+        "direct.url": "https://github.com/Snakefangox/FasterThanC/releases/download/modfest-hotfix/fasterthanc-1.5.jar"
     },
     "flycreeperfly": {
         "id": "flyCreeperFly",
@@ -600,12 +600,12 @@
     },
     "worldedit": {
         "id": "worldedit",
-        "version": "worldedit-fabric-mc1.16.1-7.2.0-beta-01.jar",
+        "version": "worldedit-fabric-mc1.16.1-7.2.0-beta-02.jar",
         "provider": "CURSE",
         "side": "BOTH",
         "optional": "false",
-        "filename": "worldedit-fabric-mc1.16.1-7.2.0-beta-01.jar",
-        "direct.url": "https://edge.forgecdn.net/files/2988/278/worldedit-fabric-mc1.16.1-7.2.0-beta-01.jar",
+        "filename": "worldedit-fabric-mc1.16.1-7.2.0-beta-02.jar",
+        "direct.url": "https://edge.forgecdn.net/files/2997/551/worldedit-fabric-mc1.16.1-7.2.0-beta-02.jar",
         "curse.releasetype": "Beta",
         "curse.authors": "me4502, octylFractal, sk89q, wizjany_"
     }

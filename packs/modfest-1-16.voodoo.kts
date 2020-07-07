@@ -70,7 +70,7 @@ root<Curse> {
 
         // Utils
         +Mod.worldedit {
-            curse.fileID = FileID(2988278)
+            curse.fileID = FileID(2997551)
             curse.skipFingerprintCheck = true
         }
         +Mod.makkit {
@@ -187,7 +187,7 @@ root<Curse> {
 //                url = "https://cdn.discordapp.com/attachments/690273715166117899/727648262143868980/adventurez-1.0.2.jar"
 //            }
             +"astromine" {
-                url = "https://github.com/Chainmail-Studios/Astromine/releases/download/1.0.29/astromine-1.0.29+fabric-1.16.1.jar"
+                url = "https://github.com/Chainmail-Studios/Astromine/releases/download/1.0.30/astromine-1.0.30+fabric-1.16.1.jar"
                 skipFingerprintCheck = true
             }
             +"astrum" {
@@ -219,7 +219,7 @@ root<Curse> {
                 skipFingerprintCheck = true
             }
             +"fasterThanC" {
-                url = "https://github.com/Snakefangox/FasterThanC/releases/download/modfest/fasterthanc-1.4.jar"
+                url = "https://github.com/Snakefangox/FasterThanC/releases/download/modfest-hotfix/fasterthanc-1.5.jar"
                 skipFingerprintCheck = true
             }
             +"flyCreeperFly" {
