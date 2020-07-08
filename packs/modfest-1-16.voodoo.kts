@@ -69,14 +69,6 @@ root<Curse> {
         }
 
         // Utils
-        +Mod.worldedit {
-            curse.fileID = FileID(2997551)
-            curse.skipFingerprintCheck = true
-        }
-        +Mod.makkit {
-            curse.fileID = FileID(2986981)
-            curse.skipFingerprintCheck = true
-        }
         +Mod.lithium {
             curse.fileID = FileID(2987754)
             curse.skipFingerprintCheck = true
@@ -115,7 +107,11 @@ root<Curse> {
             curse.skipFingerprintCheck = true
         }
         (+ProjectID(391796)) { // Glowcase
-            curse.fileID = FileID(2996545)
+            curse.fileID = FileID(2999097)
+            curse.skipFingerprintCheck = true
+        }
+        (+ProjectID(391257)) { // Heart of the Machine
+            curse.fileID = FileID(2998444)
             curse.skipFingerprintCheck = true
         }
         (+ProjectID(391897)) { // Heart of the Machine
@@ -169,11 +165,6 @@ root<Curse> {
                 curse.skipFingerprintCheck = true
                 description = "Fixes issues with retina display on Mac. Don't use otherwise."
             }
-            +Mod.minihud {
-                curse.fileID = FileID(2993429)
-                curse.skipFingerprintCheck = true
-                description = "Displays server TPS and MSPT. Helpful for debugging."
-            }
         }
 
         withTypeClass(Direct::class) { }.list {
@@ -219,7 +210,7 @@ root<Curse> {
                 skipFingerprintCheck = true
             }
             +"fasterThanC" {
-                url = "https://github.com/Snakefangox/FasterThanC/releases/download/modfest-hotfix/fasterthanc-1.5.jar"
+                url = "https://github.com/Snakefangox/FasterThanC/releases/download/modfest-hotfix-2/fasterthanc-1.7.jar"
                 skipFingerprintCheck = true
             }
             +"flyCreeperFly" {
@@ -255,7 +246,7 @@ root<Curse> {
                 skipFingerprintCheck = true
             }
             +"polyDungeons" {
-                url = "https://github.com/Earthcomputer/PolyDungeons/releases/download/v1.0.2/polydungeons-1.0.2.jar"
+                url = "https://github.com/Earthcomputer/PolyDungeons/releases/download/v1.0.3/polydungeons-1.0.3.jar"
                 skipFingerprintCheck = true
             }
             +"potionOfGetHisAss" {
@@ -279,7 +270,7 @@ root<Curse> {
                 skipFingerprintCheck = true
             }
             +"superworld" {
-                url = "https://cdn.discordapp.com/attachments/720485528402657384/728339715631218708/superworld-1.0.0-pre.8.jar"
+                url = "https://cdn.discordapp.com/attachments/720485528402657384/730131026512445470/superworld-1.0.0-pre.20.jar"
                 skipFingerprintCheck = true
             }
             +"theManhattanProject" {

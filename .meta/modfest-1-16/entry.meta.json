@@ -195,12 +195,12 @@
     },
     "fasterthanc": {
         "id": "fasterThanC",
-        "version": "fasterthanc-1.5",
+        "version": "fasterthanc-1.7",
         "provider": "DIRECT",
         "side": "BOTH",
         "optional": "false",
-        "filename": "fasterthanc-1.5.jar",
-        "direct.url": "https://github.com/Snakefangox/FasterThanC/releases/download/modfest-hotfix/fasterthanc-1.5.jar"
+        "filename": "fasterthanc-1.7.jar",
+        "direct.url": "https://github.com/Snakefangox/FasterThanC/releases/download/modfest-hotfix-2/fasterthanc-1.7.jar"
     },
     "flycreeperfly": {
         "id": "flyCreeperFly",
@@ -213,23 +213,26 @@
     },
     "glowcase": {
         "id": "glowcase",
-        "version": "glowcase-0.0.7.jar",
+        "version": "glowcase-0.0.8.jar",
         "provider": "CURSE",
         "side": "BOTH",
         "optional": "false",
-        "filename": "glowcase-0.0.7.jar",
-        "direct.url": "https://edge.forgecdn.net/files/2996/545/glowcase-0.0.7.jar",
+        "filename": "glowcase-0.0.8.jar",
+        "direct.url": "https://edge.forgecdn.net/files/2999/97/glowcase-0.0.8.jar",
         "curse.releasetype": "Release",
         "curse.authors": "HephaestusDev"
     },
     "haema": {
         "id": "haema",
-        "version": "haema-1.1.1",
-        "provider": "DIRECT",
+        "version": "haema-1.1.2.jar",
+        "provider": "CURSE",
         "side": "BOTH",
         "optional": "false",
-        "filename": "haema-1.1.1.jar",
-        "direct.url": "https://github.com/williambl/haema/releases/download/v1.1.1/haema-1.1.1.jar"
+        "dependencies.required": "fabric-api, fabric-language-kotlin",
+        "filename": "haema-1.1.2.jar",
+        "direct.url": "https://edge.forgecdn.net/files/2998/444/haema-1.1.2.jar",
+        "curse.releasetype": "Release",
+        "curse.authors": "the_will_bl"
     },
     "heart-of-the-machine": {
         "id": "heart-of-the-machine",
@@ -348,18 +351,6 @@
         "curse.releasetype": "Release",
         "curse.authors": "jellysquid_"
     },
-    "makkit": {
-        "id": "makkit",
-        "version": "makkit-1.0.2.jar",
-        "provider": "CURSE",
-        "side": "BOTH",
-        "optional": "false",
-        "dependencies.required": "fabric-api, fabric-language-kotlin",
-        "filename": "makkit-1.0.2.jar",
-        "direct.url": "https://edge.forgecdn.net/files/2986/981/makkit-1.0.2.jar",
-        "curse.releasetype": "Release",
-        "curse.authors": "ejektaflex"
-    },
     "malilib": {
         "id": "malilib",
         "version": "malilib-fabric-1.16.1-0.10.0-dev.21+arne.1.jar",
@@ -369,19 +360,6 @@
         "filename": "malilib-fabric-1.16.1-0.10.0-dev.21+arne.1.jar",
         "direct.url": "https://edge.forgecdn.net/files/2993/139/malilib-fabric-1.16.1-0.10.0-dev.21+arne.1.jar",
         "curse.releasetype": "Release",
-        "curse.authors": "masady"
-    },
-    "minihud": {
-        "id": "minihud",
-        "version": "minihud-fabric-1.16.1-0.19.0-dev.20200701.005153.jar",
-        "provider": "CURSE",
-        "side": "BOTH",
-        "description": "Displays server TPS and MSPT. Helpful for debugging.",
-        "optional": "true",
-        "dependencies.required": "malilib",
-        "filename": "minihud-fabric-1.16.1-0.19.0-dev.20200701.005153.jar",
-        "direct.url": "https://edge.forgecdn.net/files/2993/429/minihud-fabric-1.16.1-0.19.0-dev.20200701.005153.jar",
-        "curse.releasetype": "Beta",
         "curse.authors": "masady"
     },
     "mobs-attempt-parkour": {
@@ -469,12 +447,12 @@
     },
     "polydungeons": {
         "id": "polyDungeons",
-        "version": "polydungeons-1.0.2",
+        "version": "polydungeons-1.0.3",
         "provider": "DIRECT",
         "side": "BOTH",
         "optional": "false",
-        "filename": "polydungeons-1.0.2.jar",
-        "direct.url": "https://github.com/Earthcomputer/PolyDungeons/releases/download/v1.0.2/polydungeons-1.0.2.jar"
+        "filename": "polydungeons-1.0.3.jar",
+        "direct.url": "https://github.com/Earthcomputer/PolyDungeons/releases/download/v1.0.3/polydungeons-1.0.3.jar"
     },
     "potionofgethisass": {
         "id": "potionOfGetHisAss",
@@ -558,12 +536,12 @@
     },
     "superworld": {
         "id": "superworld",
-        "version": "superworld-1.0.0-pre.8",
+        "version": "superworld-1.0.0-pre.20",
         "provider": "DIRECT",
         "side": "BOTH",
         "optional": "false",
-        "filename": "superworld-1.0.0-pre.8.jar",
-        "direct.url": "https://cdn.discordapp.com/attachments/720485528402657384/728339715631218708/superworld-1.0.0-pre.8.jar"
+        "filename": "superworld-1.0.0-pre.20.jar",
+        "direct.url": "https://cdn.discordapp.com/attachments/720485528402657384/730131026512445470/superworld-1.0.0-pre.20.jar"
     },
     "themanhattanproject": {
         "id": "theManhattanProject",
@@ -597,16 +575,5 @@
         "direct.url": "https://edge.forgecdn.net/files/2987/851/WoodsAndMires-1.0.0+1.16.1.jar",
         "curse.releasetype": "Release",
         "curse.authors": "Juicebus"
-    },
-    "worldedit": {
-        "id": "worldedit",
-        "version": "worldedit-fabric-mc1.16.1-7.2.0-beta-02.jar",
-        "provider": "CURSE",
-        "side": "BOTH",
-        "optional": "false",
-        "filename": "worldedit-fabric-mc1.16.1-7.2.0-beta-02.jar",
-        "direct.url": "https://edge.forgecdn.net/files/2997/551/worldedit-fabric-mc1.16.1-7.2.0-beta-02.jar",
-        "curse.releasetype": "Beta",
-        "curse.authors": "me4502, octylFractal, sk89q, wizjany_"
     }
 }

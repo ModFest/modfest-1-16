@@ -1,4 +1,13 @@
 {
-    "type": "direct",
-    "url": "https://github.com/williambl/haema/releases/download/v1.1.1/haema-1.1.1.jar"
+    "type": "curse",
+    "common": {
+        "dependencies": {
+            "REQUIRED": [
+                "fabric-language-kotlin",
+                "fabric-api"
+            ]
+        }
+    },
+    "projectID": 391257,
+    "fileID": 2998444
 }
