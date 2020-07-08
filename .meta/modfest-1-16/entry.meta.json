@@ -213,12 +213,12 @@
     },
     "glowcase": {
         "id": "glowcase",
-        "version": "glowcase-0.0.8.jar",
+        "version": "glowcase-0.0.9.jar",
         "provider": "CURSE",
         "side": "BOTH",
         "optional": "false",
-        "filename": "glowcase-0.0.8.jar",
-        "direct.url": "https://edge.forgecdn.net/files/2999/97/glowcase-0.0.8.jar",
+        "filename": "glowcase-0.0.9.jar",
+        "direct.url": "https://edge.forgecdn.net/files/2999/831/glowcase-0.0.9.jar",
         "curse.releasetype": "Release",
         "curse.authors": "HephaestusDev"
     },

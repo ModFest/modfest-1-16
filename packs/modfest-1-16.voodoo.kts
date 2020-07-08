@@ -107,7 +107,7 @@ root<Curse> {
             curse.skipFingerprintCheck = true
         }
         (+ProjectID(391796)) { // Glowcase
-            curse.fileID = FileID(2999097)
+            curse.fileID = FileID(2999831)
             curse.skipFingerprintCheck = true
         }
         (+ProjectID(391257)) { // Heart of the Machine
