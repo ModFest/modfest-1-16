@@ -77,6 +77,10 @@ root<Curse> {
             curse.fileID = FileID(2987621)
             curse.skipFingerprintCheck = true
         }
+        +Mod.okZoomer {
+            curse.fileID = FileID(2909687)
+            curse.skipFingerprintCheck = true
+        }
 
         // Curse ModFest Mods
         (+ProjectID(390991)) { // AdventureZ
@@ -110,8 +114,8 @@ root<Curse> {
             curse.fileID = FileID(2999831)
             curse.skipFingerprintCheck = true
         }
-        (+ProjectID(391257)) { // Heart of the Machine
-            curse.fileID = FileID(2998444)
+        (+ProjectID(391257)) { // Haema
+            curse.fileID = FileID(3000417)
             curse.skipFingerprintCheck = true
         }
         (+ProjectID(391897)) { // Heart of the Machine
@@ -217,10 +221,10 @@ root<Curse> {
                 url = "https://github.com/Scotsguy/fly-creeper-fly/releases/download/v1.0.0%2B1.16.1/fly-creeper-fly-1.0.0+1.16.1.jar"
                 skipFingerprintCheck = true
             }
-            +"haema" {
-                url = "https://github.com/williambl/haema/releases/download/v1.1.1/haema-1.1.1.jar"
-                skipFingerprintCheck = true
-            }
+//            +"haema" {
+//                url = "https://github.com/williambl/haema/releases/download/v1.1.1/haema-1.1.1.jar"
+//                skipFingerprintCheck = true
+//            }
             +"homestuckLoadingScreen" {
                 url = "https://immibis.com/mcmodjam/homestuck_loading_screen-1.0.2.jar"
                 skipFingerprintCheck = true

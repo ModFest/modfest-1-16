@@ -3,11 +3,10 @@
     "common": {
         "dependencies": {
             "REQUIRED": [
-                "fabric-language-kotlin",
                 "fabric-api"
             ]
         }
     },
-    "projectID": 391257,
-    "fileID": 3000417
+    "projectID": 354047,
+    "fileID": 2909687
 }
