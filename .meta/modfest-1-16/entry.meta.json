@@ -72,12 +72,12 @@
     },
     "bonecheese": {
         "id": "boneCheese",
-        "version": "bonecheese-0.9.9-pre.9.9.9.9.9.9.but.without.the.include.but.reuploaded.because.prospector.deleted.t",
+        "version": "bonecheese-0.9.9-pre.9.9.9.9.9.9.9.whoops.wrong.parent.model",
         "provider": "DIRECT",
         "side": "BOTH",
         "optional": "false",
-        "filename": "bonecheese-0.9.9-pre.9.9.9.9.9.9.but.without.the.include.but.reuploaded.because.prospector.deleted.t.jar",
-        "direct.url": "https://cdn.discordapp.com/attachments/720484460197314590/727051566380744735/bonecheese-0.9.9-pre.9.9.9.9.9.9.but.without.the.include.but.reuploaded.because.prospector.deleted.t.jar"
+        "filename": "bonecheese-0.9.9-pre.9.9.9.9.9.9.9.whoops.wrong.parent.model.jar",
+        "direct.url": "https://cdn.discordapp.com/attachments/720485528402657384/730898589835984956/bonecheese-0.9.9-pre.9.9.9.9.9.9.9.whoops.wrong.parent.model.jar"
     },
     "bruhmoment": {
         "id": "bruhMoment",
@@ -224,13 +224,13 @@
     },
     "haema": {
         "id": "haema",
-        "version": "haema-1.1.2.jar",
+        "version": "haema-1.1.3.jar",
         "provider": "CURSE",
         "side": "BOTH",
         "optional": "false",
         "dependencies.required": "fabric-api, fabric-language-kotlin",
-        "filename": "haema-1.1.2.jar",
-        "direct.url": "https://edge.forgecdn.net/files/2998/444/haema-1.1.2.jar",
+        "filename": "haema-1.1.3.jar",
+        "direct.url": "https://edge.forgecdn.net/files/3000/417/haema-1.1.3.jar",
         "curse.releasetype": "Release",
         "curse.authors": "the_will_bl"
     },
@@ -424,6 +424,18 @@
         "optional": "false",
         "filename": "mycoturgy-0.1.2+1.16.1.jar",
         "direct.url": "https://github.com/Boundarybreaker/Mycoturgy/releases/download/1.0.2%2B1.16.1/mycoturgy-0.1.2+1.16.1.jar"
+    },
+    "ok-zoomer": {
+        "id": "ok-zoomer",
+        "version": "okzoomer-3.0.1-20w12a.jar",
+        "provider": "CURSE",
+        "side": "BOTH",
+        "optional": "false",
+        "dependencies.required": "fabric-api",
+        "filename": "okzoomer-3.0.1-20w12a.jar",
+        "direct.url": "https://edge.forgecdn.net/files/2909/687/okzoomer-3.0.1-20w12a.jar",
+        "curse.releasetype": "Release",
+        "curse.authors": "boredomh1"
     },
     "patchouli": {
         "id": "patchouli",

@@ -198,7 +198,7 @@ root<Curse> {
                 skipFingerprintCheck = true
             }
             +"boneCheese" {
-                url = "https://cdn.discordapp.com/attachments/720484460197314590/727051566380744735/bonecheese-0.9.9-pre.9.9.9.9.9.9.but.without.the.include.but.reuploaded.because.prospector.deleted.t.jar"
+                url = "https://cdn.discordapp.com/attachments/720485528402657384/730898589835984956/bonecheese-0.9.9-pre.9.9.9.9.9.9.9.whoops.wrong.parent.model.jar"
                 skipFingerprintCheck = true
             }
             +"cargoRockets" {
