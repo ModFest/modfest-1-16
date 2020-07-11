@@ -107,7 +107,7 @@ root<Curse> {
             curse.skipFingerprintCheck = true
         }
         (+ProjectID(392015)) { // Eldritch Mobs
-            curse.fileID = FileID(2996577)
+            curse.fileID = FileID(3000966)
             curse.skipFingerprintCheck = true
         }
         (+ProjectID(391796)) { // Glowcase
@@ -292,6 +292,10 @@ root<Curse> {
 //            }
             +"bruhMoment" {
                 url = "https://cdn.discordapp.com/attachments/690273715166117899/727807352182407208/bruh-moment-0.2.0.jar"
+                skipFingerprintCheck = true
+            }
+            +"angerablePatch" {
+                url = "https://github.com/Draylar/angerable-patch/releases/download/1.0.0-1.16.1/angerable-patch-1.0.0-1.16.1.jar"
                 skipFingerprintCheck = true
             }
         }

@@ -11,6 +11,15 @@
         "curse.releasetype": "Release",
         "curse.authors": "Globox_Z"
     },
+    "angerablepatch": {
+        "id": "angerablePatch",
+        "version": "angerable-patch-1.0.0-1.16.1",
+        "provider": "DIRECT",
+        "side": "BOTH",
+        "optional": "false",
+        "filename": "angerable-patch-1.0.0-1.16.1.jar",
+        "direct.url": "https://github.com/Draylar/angerable-patch/releases/download/1.0.0-1.16.1/angerable-patch-1.0.0-1.16.1.jar"
+    },
     "astromine": {
         "id": "astromine",
         "version": "astromine-1.0.30+fabric-1.16.1",
@@ -161,13 +170,13 @@
     },
     "eldritch-mobs": {
         "id": "eldritch-mobs",
-        "version": "eldritch-mobs-1.2.4.jar",
+        "version": "eldritch-mobs-1.2.7.jar",
         "provider": "CURSE",
         "side": "BOTH",
         "optional": "false",
         "dependencies.required": "cardinal-components",
-        "filename": "eldritch-mobs-1.2.4.jar",
-        "direct.url": "https://edge.forgecdn.net/files/2996/577/eldritch-mobs-1.2.4.jar",
+        "filename": "eldritch-mobs-1.2.7.jar",
+        "direct.url": "https://edge.forgecdn.net/files/3000/966/eldritch-mobs-1.2.7.jar",
         "curse.releasetype": "Release",
         "curse.authors": "cyborg_pigeon"
     },
