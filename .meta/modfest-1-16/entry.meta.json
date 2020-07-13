@@ -20,14 +20,16 @@
         "filename": "angerable-patch-1.0.0-1.16.1.jar",
         "direct.url": "https://github.com/Draylar/angerable-patch/releases/download/1.0.0-1.16.1/angerable-patch-1.0.0-1.16.1.jar"
     },
-    "astromine": {
-        "id": "astromine",
-        "version": "astromine-1.0.30+fabric-1.16.1",
-        "provider": "DIRECT",
+    "astromine-fabric": {
+        "id": "astromine-fabric",
+        "version": "astromine-1.0.32+fabric-1.16.1.jar",
+        "provider": "CURSE",
         "side": "BOTH",
         "optional": "false",
-        "filename": "astromine-1.0.30+fabric-1.16.1.jar",
-        "direct.url": "https://github.com/Chainmail-Studios/Astromine/releases/download/1.0.30/astromine-1.0.30+fabric-1.16.1.jar"
+        "filename": "astromine-1.0.32+fabric-1.16.1.jar",
+        "direct.url": "https://edge.forgecdn.net/files/3003/672/astromine-1.0.32+fabric-1.16.1.jar",
+        "curse.releasetype": "Release",
+        "curse.authors": "bolkor_, Draylar1, halfbuilders, shedaniel, Shnupbups, SuperCoder79"
     },
     "astrum": {
         "id": "astrum",

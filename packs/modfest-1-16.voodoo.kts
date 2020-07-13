@@ -87,10 +87,10 @@ root<Curse> {
             curse.fileID = FileID(2995966)
             curse.skipFingerprintCheck = true
         }
-//        (+ProjectID(391739)) { // Astromine
-//            curse.fileID = FileID(2994662)
-//            curse.skipFingerprintCheck = true
-//        }
+        (+ProjectID(391739)) { // Astromine
+            curse.fileID = FileID(3003672)
+            curse.skipFingerprintCheck = true
+        }
         (+ProjectID(391532)) { // Biomechanics
             curse.fileID = FileID(2995721)
             curse.skipFingerprintCheck = true
@@ -181,10 +181,10 @@ root<Curse> {
 //            +"adventurez" {
 //                url = "https://cdn.discordapp.com/attachments/690273715166117899/727648262143868980/adventurez-1.0.2.jar"
 //            }
-            +"astromine" {
-                url = "https://github.com/Chainmail-Studios/Astromine/releases/download/1.0.30/astromine-1.0.30+fabric-1.16.1.jar"
-                skipFingerprintCheck = true
-            }
+//            +"astromine" {
+//                url = "https://github.com/Chainmail-Studios/Astromine/releases/download/1.0.30/astromine-1.0.30+fabric-1.16.1.jar"
+//                skipFingerprintCheck = true
+//            }
             +"astrum" {
                 url = "https://github.com/The-Code-Monkey/ModFest/releases/download/1.0.1/astrum-1.0.0.jar"
                 skipFingerprintCheck = true
