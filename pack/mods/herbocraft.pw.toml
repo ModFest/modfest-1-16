@@ -1,0 +1,13 @@
+name = "HerboCraft"
+filename = "herbocraft-v1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "85860cfbeb59b5ab0d3a4aeae31ac4573e152859"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2990657
+project-id = 390001

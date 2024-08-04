@@ -1,0 +1,13 @@
+name = "Quantum Gems"
+filename = "quantum-gems-0.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b9a3f6aa4bb3e564b3598c4eb476a4007cb0951c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2993585
+project-id = 391987

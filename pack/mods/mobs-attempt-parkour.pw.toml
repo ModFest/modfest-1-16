@@ -1,0 +1,13 @@
+name = "Mobs Attempt Parkour"
+filename = "mobs-attempt-parkour-0.1.1-1.16.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ea5bdd8b128de0e25f961613aa8bf8dd48ca0638"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2990365
+project-id = 391812

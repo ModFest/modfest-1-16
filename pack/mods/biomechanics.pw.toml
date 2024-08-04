@@ -1,0 +1,13 @@
+name = "Biomechanics"
+filename = "biomechanics-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ced1a166131a2c45dac2a90c72cc3f51c0654379"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2995721
+project-id = 391532

@@ -1,0 +1,7 @@
+name = "mycoturgy"
+filename = "mycoturgy-0.1.2+1.16.1.jar"
+
+[download]
+url = "https://github.com/Boundarybreaker/Mycoturgy/releases/download/1.0.2%2B1.16.1/mycoturgy-0.1.2+1.16.1.jar"
+hash-format = "sha256"
+hash = "dc5ea07735e64f6b8fb33a099f206a6ffbdecd50468634a3622a292122ecc7f4"

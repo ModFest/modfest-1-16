@@ -1,0 +1,7 @@
+name = "homestuckLoadingScreen"
+filename = "homestuck_loading_screen-1.0.2.jar"
+
+[download]
+url = "https://immibis.com/mcmodjam/homestuck_loading_screen-1.0.2.jar"
+hash-format = "sha256"
+hash = "c455ea1a12748a2d5ea099ad46c963d409c7feb2a3616fd67be3f8422f99de4e"

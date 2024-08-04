@@ -1,0 +1,13 @@
+name = "Astromine - Machines n' Space!"
+filename = "astromine-1.0.32+fabric-1.16.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bec18dde187e22108973c3a3bcf39c78452a7a9a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3003672
+project-id = 391739

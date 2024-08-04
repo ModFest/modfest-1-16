@@ -1,0 +1,7 @@
+name = "rpgstats"
+filename = "hahayesrpgstats-1.1.31.16.1.jar"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/345364115726008332/727695753757327430/hahayesrpgstats-1.1.31.16.1.jar"
+hash-format = "sha256"
+hash = "456a44e60df9f07d714c2d69e9c3ff8bc79a098f40b1006062956d5928b31f72"

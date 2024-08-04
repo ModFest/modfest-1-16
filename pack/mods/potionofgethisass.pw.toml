@@ -1,0 +1,7 @@
+name = "potionOfGetHisAss"
+filename = "potion-of-get-his-ass-1.1.2+1.16.1.jar"
+
+[download]
+url = "https://github.com/Scotsguy/potion-of-get-his-ass/releases/download/v1.1.2%2B1.16.1/potion-of-get-his-ass-1.1.2+1.16.1.jar"
+hash-format = "sha256"
+hash = "5bd107d229c8ed86bed3b55c5920a7c02047142919cb8ff7827c2bc665b52ab8"

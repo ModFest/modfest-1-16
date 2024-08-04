@@ -1,0 +1,13 @@
+name = "Phosphor (Fabric)"
+filename = "phosphor-fabric-mc1.16.1-0.6.0+build.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d1716355de272f2b2e05775e853846771fceef7c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2987621
+project-id = 372124

@@ -1,0 +1,7 @@
+name = "theManhattanProject"
+filename = "manhattan_project-1.0.3.jar"
+
+[download]
+url = "https://github.com/valoeghese/TheManhattanProject/releases/download/1.0.3/manhattan_project-1.0.3.jar"
+hash-format = "sha256"
+hash = "4c9fd667cbaae4ea233b463265ff2c91f91178b75e9072f37ccb337727c1e7c5"

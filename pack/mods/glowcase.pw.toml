@@ -1,0 +1,13 @@
+name = "Glowcase"
+filename = "glowcase-0.0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5f48203b27b8d1ad77fe7af531c50bf401875398"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2999831
+project-id = 391796

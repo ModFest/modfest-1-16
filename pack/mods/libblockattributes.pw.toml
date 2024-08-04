@@ -1,0 +1,13 @@
+name = "Lib Block Attributes"
+filename = "libblockattributes-all-0.7.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "256b1ff0c65ac1c1982c2c72d7b1530f9e8fef6d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2981668
+project-id = 317995

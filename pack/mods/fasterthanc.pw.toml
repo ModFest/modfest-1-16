@@ -1,0 +1,7 @@
+name = "fasterThanC"
+filename = "fasterthanc-1.7.jar"
+
+[download]
+url = "https://github.com/Snakefangox/FasterThanC/releases/download/modfest-hotfix-2/fasterthanc-1.7.jar"
+hash-format = "sha256"
+hash = "0e59d4e5f706784b6cd0b1c5b38b0fa5ce21217ed2eb9b2141c2f301896b3f0a"

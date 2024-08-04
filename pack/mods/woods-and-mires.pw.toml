@@ -1,0 +1,13 @@
+name = "Woods and Mires"
+filename = "WoodsAndMires-1.0.0+1.16.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d278b0ff22e35a039edd9ab46dc7b6b178e90d0a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2987851
+project-id = 391737

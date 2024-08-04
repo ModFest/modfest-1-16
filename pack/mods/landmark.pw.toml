@@ -1,0 +1,13 @@
+name = "Landmark"
+filename = "landmark-0.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ee3e0771c3c745215fd3cb8d14fcc48d5486f6f1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2994370
+project-id = 391186

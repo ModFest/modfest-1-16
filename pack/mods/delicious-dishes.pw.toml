@@ -1,0 +1,13 @@
+name = "Delicious Dishes"
+filename = "dishes-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "951e0cf776e1d68f6ceb717509108cd92c50e27f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2991883
+project-id = 390141

@@ -1,0 +1,7 @@
+name = "blockwake"
+filename = "Blockwake-1.16-0.6.1.jar"
+
+[download]
+url = "https://github.com/JSJBDEV/PiratesAndPlunderers/releases/download/0.6.1/Blockwake-1.16-0.6.1.jar"
+hash-format = "sha256"
+hash = "c7c5c382062fb8ae784c1186c19a7dd1874b755cb52a5d962af46bb747cc6c3f"

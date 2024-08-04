@@ -1,0 +1,7 @@
+name = "sunirl"
+filename = "sunirl-1.1.1.jar"
+
+[download]
+url = "https://github.com/TIVJ-dev/SunIRL/releases/download/1.1.1/sunirl-1.1.1.jar"
+hash-format = "sha256"
+hash = "d389a72433e4d1facc694d6a4366b174378bf48836b662afba0d3eb95e9c6c62"

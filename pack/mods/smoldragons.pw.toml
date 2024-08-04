@@ -1,0 +1,7 @@
+name = "smolDragons"
+filename = "smol-dragons-1.0.1.jar"
+
+[download]
+url = "https://dblsaiko.net/pub/modfest/mods/smol-dragons-1.0.1.jar"
+hash-format = "sha256"
+hash = "8f7e5f8e8f76afac7176de96f14385910749f9b4b2ece38c5e246bca98975c2f"

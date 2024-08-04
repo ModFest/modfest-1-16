@@ -1,0 +1,7 @@
+name = "polyDungeons"
+filename = "polydungeons-1.0.3.jar"
+
+[download]
+url = "https://github.com/Earthcomputer/PolyDungeons/releases/download/v1.0.3/polydungeons-1.0.3.jar"
+hash-format = "sha256"
+hash = "eeb7be74407a22b0cfba286c5d0a5d2094d937ba0f69b94ea1b02460c14ff25e"

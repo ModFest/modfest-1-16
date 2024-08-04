@@ -1,0 +1,13 @@
+name = "Twine"
+filename = "twine-1.0.3+1.16.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b4beede20c169eec225951c6f5ff9af8519dda99"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2990466
+project-id = 390028

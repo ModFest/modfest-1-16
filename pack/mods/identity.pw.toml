@@ -1,0 +1,13 @@
+name = "Identity"
+filename = "identity-1.1.0-beta-1.16.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "db9403eddc5fc45ddb52624ce1c4687417fa9dbc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2990840
+project-id = 391390

@@ -1,0 +1,13 @@
+name = "Cotton Resources"
+filename = "cotton-resources+unspecified-1.7.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8b8491fdfd6cdb73e960ebed919a44f345353d90"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2993390
+project-id = 321104

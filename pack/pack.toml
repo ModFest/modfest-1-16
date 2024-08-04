@@ -1,0 +1,13 @@
+name = "modfest 1.16"
+author = "Prospector and B0undarybreaker"
+version = "1.0.0+modrinth_release"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7a7b617616e9a6caee8d8ec6a0ac49a8ad47ec392f249e0b7b4dffabcb1de857"
+
+[versions]
+fabric = "0.8.9+build.203"
+minecraft = "1.16.1"

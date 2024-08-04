@@ -1,0 +1,13 @@
+name = "Modern Biospheres"
+filename = "biospheres_generator-0.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3cf764367b0c5509d04f6fa08fda44288ce79130"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2990133
+project-id = 392045

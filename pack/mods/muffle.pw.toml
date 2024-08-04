@@ -1,0 +1,13 @@
+name = "Muffle"
+filename = "muffle-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2ed489e7ff1ca9678c4e6402108eb484434c7373"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2988542
+project-id = 391937

@@ -1,0 +1,7 @@
+name = "flyCreeperFly"
+filename = "fly-creeper-fly-1.0.0+1.16.1.jar"
+
+[download]
+url = "https://github.com/Scotsguy/fly-creeper-fly/releases/download/v1.0.0%2B1.16.1/fly-creeper-fly-1.0.0+1.16.1.jar"
+hash-format = "sha256"
+hash = "58aacef2bc4fd10d134da32174370ca1c9532ae046bcbb581712912384443a27"
