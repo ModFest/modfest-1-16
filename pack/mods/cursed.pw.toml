@@ -1,7 +1,0 @@
-name = "cursed"
-filename = "cursed-1.0.0-SNAPSHOT-without-the-debugging.jar"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/720484460197314590/727054419832864768/cursed-1.0.0-SNAPSHOT-without-the-debugging.jar"
-hash-format = "sha256"
-hash = "beee2d745b9ac1cbfb462f272c06e8b2a378bd17a251bd67b0e8110471bb9056"

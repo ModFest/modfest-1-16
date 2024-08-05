@@ -41,6 +41,10 @@ file = "mods/CargoRockets-0.1.0-alpha+1.16.1.jar"
 hash = "ae3148867523cbd6b0646dcf214d5070d191c51b0a6e05a5b439f713706fb454"
 
 [[files]]
+file = "mods/Patchouli-1.16-36.190.jar"
+hash = "51a21abee3eced2a20112e8893ddd927fcd2a3c54971089fd849a6a79063071b"
+
+[[files]]
 file = "mods/adventurez.pw.toml"
 hash = "fa7c82cf3d09a078e57dc09f8dbca92ebc9639ecf4e53de8019e0481ea40b7fb"
 metafile = true
@@ -80,14 +84,12 @@ hash = "4ffb28c65a8859489d1ea5b47f68cb022d42c6104c3897bf2055fdf0ff5b1735"
 metafile = true
 
 [[files]]
-file = "mods/bonecheese.pw.toml"
-hash = "15d5dcb8802a3c92c69c7a0a4bef30b95a412977db4806686a3d9e44767cf53d"
-metafile = true
+file = "mods/bonecheese-0.9.9-pre.9.9.9.9.9.9.9.whoops.wrong.parent.model.jar"
+hash = "fc05fc10537a90786329ca77928b55d48c77b808cd8478db90bded3bf0710863"
 
 [[files]]
-file = "mods/bruhmoment.pw.toml"
-hash = "aecdceae5319c772d80bb7fdea41cbd60f635c8f7480102d776ae760f6082a84"
-metafile = true
+file = "mods/bruh-moment-0.2.0.jar"
+hash = "d3c6a057291ddbe9de674733294a02dd85231ff924216decd3d7223b0436408b"
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
@@ -105,14 +107,12 @@ hash = "202959f942776c7194e0604d84920371bf5b506bc261d7d8636ff05b9c1fea9c"
 metafile = true
 
 [[files]]
-file = "mods/crusade.pw.toml"
-hash = "a22f79bcebbb8c3eba15e6cbfed34c82ca8dd018943db93601a7f511462f75a7"
-metafile = true
+file = "mods/crusade-mod-1.1.11.16.1.jar"
+hash = "362d28091c991a7a94fe8c1e445ea0cee579d86983aa9411e55eb2e2cb7480d9"
 
 [[files]]
-file = "mods/cursed.pw.toml"
-hash = "575105f9faedfbfa91f791bc2458184f241fb2a5b68451f713c7a9e992e97178"
-metafile = true
+file = "mods/cursed-1.0.0-SNAPSHOT-without-the-debugging.jar"
+hash = "beee2d745b9ac1cbfb462f272c06e8b2a378bd17a251bd67b0e8110471bb9056"
 
 [[files]]
 file = "mods/delicious-dishes.pw.toml"
@@ -150,9 +150,17 @@ hash = "ed9b033652722d4f0237852f02b1e3223afe58747e2372bd15512f6e37ed7054"
 metafile = true
 
 [[files]]
+file = "mods/gud_modfest116_specialsauce-1.0.8.jar"
+hash = "a8d05425adee58fa74aa92358069763e9703cf57af711642b2a4baa4627700ea"
+
+[[files]]
 file = "mods/haema.pw.toml"
 hash = "0dc5a4e7df443dc92f8d0b3d0965f05e28ff476589b4570cf59a5f5844cc71f9"
 metafile = true
+
+[[files]]
+file = "mods/hahayesrpgstats-1.1.31.16.1.jar"
+hash = "456a44e60df9f07d714c2d69e9c3ff8bc79a098f40b1006062956d5928b31f72"
 
 [[files]]
 file = "mods/heart-of-the-machine.pw.toml"
@@ -229,11 +237,6 @@ hash = "7bd36015f3c493a9fb95b557fcf28a307924a6f1bd350689e020cff595d87c09"
 metafile = true
 
 [[files]]
-file = "mods/moreshulkerboxes.pw.toml"
-hash = "6ba0c367d85f479e3b39659e163d513b8e798278fc89857fbf28aea7c241eebe"
-metafile = true
-
-[[files]]
 file = "mods/muffle.pw.toml"
 hash = "6808ce9e51275bcaa341d3f04385ede64dfba7ea72c55144f0a8b8cd469dd549"
 metafile = true
@@ -246,11 +249,6 @@ metafile = true
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "bdb7dc869a38bd59c97ea4f33dab107c0d9a49ccccd9570e418275c61ecbe4fb"
-metafile = true
-
-[[files]]
-file = "mods/patchouli.pw.toml"
-hash = "c3bac2019aba6fd8b16fc5836a60cace0fbf07a13fd5c77c8c00437be2aecd65"
 metafile = true
 
 [[files]]
@@ -288,11 +286,6 @@ hash = "9a80669e086e00b393d5d15c74e5100a0dcdd655c3628b1dd240323b7ccfab8b"
 metafile = true
 
 [[files]]
-file = "mods/rpgstats.pw.toml"
-hash = "92dab9ee7f8beffce90139cc2a6b80c3a60524537c58f639ec6ca8e93dd07522"
-metafile = true
-
-[[files]]
 file = "mods/smoldragons.pw.toml"
 hash = "2a404f333624f6f01019b61315cae1f238205e2a45139b4010f38fe9040b8997"
 metafile = true
@@ -303,9 +296,8 @@ hash = "25fc78616fa49686d8bd7f2d0be00b129778a11d762cfdc445098e9e02326076"
 metafile = true
 
 [[files]]
-file = "mods/superworld.pw.toml"
-hash = "f8b089a0b2a120ac8f6f328b5f70d563cd78aba2a02245c06b03336b2451d948"
-metafile = true
+file = "mods/superworld-1.0.0-pre.20.jar"
+hash = "1356f74d88dff68f401c49dbb718b57df52c32a7314097ff0f51a9aa9aeb6173"
 
 [[files]]
 file = "mods/themanhattanproject.pw.toml"

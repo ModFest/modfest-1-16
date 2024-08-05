@@ -1,7 +1,0 @@
-name = "superworld"
-filename = "superworld-1.0.0-pre.20.jar"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/720485528402657384/730131026512445470/superworld-1.0.0-pre.20.jar"
-hash-format = "sha256"
-hash = "1356f74d88dff68f401c49dbb718b57df52c32a7314097ff0f51a9aa9aeb6173"

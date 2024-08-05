@@ -1,7 +1,0 @@
-name = "crusade"
-filename = "crusade-mod-1.1.11.16.1.jar"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/690273715166117899/727926651048165376/crusade-mod-1.1.11.16.1.jar"
-hash-format = "sha256"
-hash = "362d28091c991a7a94fe8c1e445ea0cee579d86983aa9411e55eb2e2cb7480d9"

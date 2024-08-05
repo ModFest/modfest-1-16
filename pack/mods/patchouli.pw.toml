@@ -1,7 +1,0 @@
-name = "patchouli"
-filename = "Patchouli-1.16-36.190.jar"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/690273715166117899/727711990608560158/Patchouli-1.16-36.190.jar"
-hash-format = "sha256"
-hash = "51a21abee3eced2a20112e8893ddd927fcd2a3c54971089fd849a6a79063071b"
