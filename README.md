@@ -15,7 +15,7 @@ This modpack contains all submissions, as well as a showcase world built by part
 **Key Features**:
 - Witness the dawn of 42 mods, including **Glowcase**, **Astromine**, **Haema**, and **Heart of the Machine**!
 - Explore sprawling vanilla terrain with mod "booths" scattered near, far, and _very_ far!
-- Cycle around bike trails and around a map covered in light bridges, named locations, and floating text!
+- Cycle on bike trails and around a map covered in light bridges, named locations, and floating text!
 - Hop between any booth at will using the mod hub!
 - Get hopelessly lost!
 
