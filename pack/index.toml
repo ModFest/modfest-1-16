@@ -313,7 +313,3 @@ metafile = true
 file = "mods/woods-and-mires.pw.toml"
 hash = "2b39220e4b97b3141f54514dbb7a9692e9f189ed410fcd5afb99e9da461f4e6f"
 metafile = true
-
-[[files]]
-file = "servers.dat"
-hash = "c971db020b0308fb420f9ceb519cf8a741226592ef26e9b7cea3bdd20fc8ab95"
