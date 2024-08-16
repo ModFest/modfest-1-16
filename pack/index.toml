@@ -313,3 +313,15 @@ metafile = true
 file = "mods/woods-and-mires.pw.toml"
 hash = "2b39220e4b97b3141f54514dbb7a9692e9f189ed410fcd5afb99e9da461f4e6f"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "317390e8942a9c5f6982b605df4c11580dd148c3d511f9725a78dc38e25a35bb"
+
+[[files]]
+file = "server-icon.png"
+hash = "a509f4a96b17824c9fa312aee3e53550370a8dffe5ec16803884823dbbfe3469"
+
+[[files]]
+file = "server.properties"
+hash = "b4003858733d58f0a001198c57b395dce5182c1bb315ab9c899d06063acc2e97"
